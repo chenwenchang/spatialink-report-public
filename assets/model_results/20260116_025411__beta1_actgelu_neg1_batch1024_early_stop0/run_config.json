@@ -1,0 +1,9 @@
+{
+  "beta": 1,
+  "share_activation": "gelu",
+  "neg_within_group": true,
+  "batch": 1024,
+  "early_stop": false,
+  "sample_id": "LEAP-008A",
+  "key_prefix": "beta1_actgelu_neg1_batch1024_early_stop0"
+}

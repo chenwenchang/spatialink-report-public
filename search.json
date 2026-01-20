@@ -1,0 +1,1631 @@
+[
+  {
+    "objectID": "runs.html",
+    "href": "runs.html",
+    "title": "Runs",
+    "section": "",
+    "text": "run_dir\nbeta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\npage\n\n\n\n\n20260113_003315__beta0p3_actgelu_neg1\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1\n64\nTrue\nopen\n\n\n20260113_014012__beta0p3_actgelu_neg0\n0.3\ngelu\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg0\n64\nTrue\nopen\n\n\n20260113_024957__beta0p3_actgelu_ln_neg1\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1\n64\nTrue\nopen\n\n\n20260113_035554__beta0p3_actgelu_ln_neg0\n0.3\ngelu_ln\nFalse\nLEAP-008A\nbeta0p3_actgelu_ln_neg0\n64\nTrue\nopen\n\n\n20260113_050858__beta0p3_actnone_neg1\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1\n64\nTrue\nopen\n\n\n20260113_062550__beta0p3_actnone_neg0\n0.3\nnone\nFalse\nLEAP-008A\nbeta0p3_actnone_neg0\n64\nTrue\nopen\n\n\n20260113_074727__beta0p7_actgelu_neg1\n0.7\ngelu\nTrue\nLEAP-008A\nbeta0p7_actgelu_neg1\n64\nTrue\nopen\n\n\n20260113_083520__beta0p7_actgelu_neg0\n0.7\ngelu\nFalse\nLEAP-008A\nbeta0p7_actgelu_neg0\n64\nTrue\nopen\n\n\n20260113_095119__beta0p7_actgelu_ln_neg1\n0.7\ngelu_ln\nTrue\nLEAP-008A\nbeta0p7_actgelu_ln_neg1\n64\nTrue\nopen\n\n\n20260113_111215__beta0p7_actgelu_ln_neg0\n0.7\ngelu_ln\nFalse\nLEAP-008A\nbeta0p7_actgelu_ln_neg0\n64\nTrue\nopen\n\n\n20260113_120653__beta0p7_actnone_neg1\n0.7\nnone\nTrue\nLEAP-008A\nbeta0p7_actnone_neg1\n64\nTrue\nopen\n\n\n20260113_130212__beta0p7_actnone_neg0\n0.7\nnone\nFalse\nLEAP-008A\nbeta0p7_actnone_neg0\n64\nTrue\nopen\n\n\n20260113_141559__beta1p0_actgelu_neg1\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1p0_actgelu_neg1\n64\nTrue\nopen\n\n\n20260113_151724__beta1p0_actgelu_neg0\n1.0\ngelu\nFalse\nLEAP-008A\nbeta1p0_actgelu_neg0\n64\nTrue\nopen\n\n\n20260113_162324__beta1p0_actgelu_ln_neg1\n1.0\ngelu_ln\nTrue\nLEAP-008A\nbeta1p0_actgelu_ln_neg1\n64\nTrue\nopen\n\n\n20260113_171604__beta1p0_actgelu_ln_neg0\n1.0\ngelu_ln\nFalse\nLEAP-008A\nbeta1p0_actgelu_ln_neg0\n64\nTrue\nopen\n\n\n20260113_181025__beta1p0_actnone_neg1\n1.0\nnone\nTrue\nLEAP-008A\nbeta1p0_actnone_neg1\n64\nTrue\nopen\n\n\n20260113_185647__beta1p0_actnone_neg0\n1.0\nnone\nFalse\nLEAP-008A\nbeta1p0_actnone_neg0\n64\nTrue\nopen\n\n\n20260114_025352__beta0p1_actn_neg1_batch32\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch32\n32\nTrue\nopen\n\n\n20260114_052102__beta0p1_actn_neg1_batch256\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch256\n256\nTrue\nopen\n\n\n20260114_060726__beta0p1_actn_neg1_batch1024\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\n1024\nTrue\nopen\n\n\n20260114_064430__beta0p1_acto_neg1_batch32\n0.1\no\nTrue\nLEAP-008A\nbeta0p1_acto_neg1_batch32\n32\nTrue\nopen\n\n\n20260114_122338__beta0p3_actrelu_neg1_batch64\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch64\n64\nTrue\nopen\n\n\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\n1024\nTrue\nopen\n\n\n20260114_144007__beta0p3_actgelu_neg1_batch32\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32\n32\nTrue\nopen\n\n\n20260114_163226__beta0p3_actgelu_neg1_batch64\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch64\n64\nTrue\nopen\n\n\n20260114_173924__beta0p3_actgelu_neg1_batch1024\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024\n1024\nTrue\nopen\n\n\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch32\n32\nTrue\nopen\n\n\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch64\n64\nTrue\nopen\n\n\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch1024\n1024\nTrue\nopen\n\n\n20260114_215719__beta0p3_actnone_neg1_batch32\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32\n32\nTrue\nopen\n\n\n20260115_001443__beta0p3_actnone_neg1_batch64\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch64\n64\nTrue\nopen\n\n\n20260115_014705__beta0p3_actnone_neg1_batch1024\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024\n1024\nTrue\nopen\n\n\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop0\n32\nFalse\nopen\n\n\n20260115_162427__beta1_actgelu_neg1_batch32_early_stop0\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch32_early_stop0\n32\nFalse\nopen\n\n\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop0\n32\nFalse\nopen\n\n\n20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\nopen\n\n\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop1\n32\nTrue\nopen\n\n\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop1\n32\nTrue\nopen\n\n\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\nopen\n\n\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0\n1024\nFalse\nopen\n\n\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop1\n1024\nTrue\nopen\n\n\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop1\n1024\nTrue\nopen",
+    "crumbs": [
+      "Overview",
+      "Runs"
+    ]
+  },
+  {
+    "objectID": "compare_early_stop.html",
+    "href": "compare_early_stop.html",
+    "title": "Comparison: early stop",
+    "section": "",
+    "text": "Group: beta=0.3, neg_within_group=True, share_activation=gelu, batch=32\n\n\n\n\n\n\n\n\n\n\nearly_stop = False\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\nearly_stop = True\n20260114_144007__beta0p3_actgelu_neg1_batch32\nearly_stop = True\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu, batch=64\n\n\n\n\n\n\n\n\n\nearly_stop = True\n20260113_003315__beta0p3_actgelu_neg1\nearly_stop = True\n20260114_163226__beta0p3_actgelu_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu, batch=1024\n\n\n\n\n\n\n\n\n\n\nearly_stop = False\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\nearly_stop = True\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nearly_stop = True\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu_ln, batch=64\n\n\n\n\n\n\n\n\n\nearly_stop = True\n20260113_024957__beta0p3_actgelu_ln_neg1\nearly_stop = True\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=none, batch=32\n\n\n\n\n\n\n\n\n\n\nearly_stop = False\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\nearly_stop = True\n20260114_215719__beta0p3_actnone_neg1_batch32\nearly_stop = True\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=none, batch=64\n\n\n\n\n\n\n\n\n\nearly_stop = True\n20260113_050858__beta0p3_actnone_neg1\nearly_stop = True\n20260115_001443__beta0p3_actnone_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=none, batch=1024\n\n\n\n\n\n\n\n\n\n\nearly_stop = False\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\nearly_stop = True\n20260115_014705__beta0p3_actnone_neg1_batch1024\nearly_stop = True\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1",
+    "crumbs": [
+      "Overview",
+      "Compare early stop"
+    ]
+  },
+  {
+    "objectID": "compare_batch.html",
+    "href": "compare_batch.html",
+    "title": "Comparison: batch",
+    "section": "",
+    "text": "Group: beta=0.1, neg_within_group=True, share_activation=n, early_stop=True\n\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260114_025352__beta0p1_actn_neg1_batch32\nbatch = 256\n20260114_052102__beta0p1_actn_neg1_batch256\nbatch = 1024\n20260114_060726__beta0p1_actn_neg1_batch1024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu, early_stop=False\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\nbatch = 1024\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu, early_stop=True\n\n\n\n\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260114_144007__beta0p3_actgelu_neg1_batch32\nbatch = 32\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\nbatch = 64\n20260114_163226__beta0p3_actgelu_neg1_batch64\nbatch = 64\n20260113_003315__beta0p3_actgelu_neg1\nbatch = 1024\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nbatch = 1024\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=gelu_ln, early_stop=True\n\n\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\nbatch = 64\n20260113_024957__beta0p3_actgelu_ln_neg1\nbatch = 64\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\nbatch = 1024\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=none, early_stop=False\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\nbatch = 1024\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=none, early_stop=True\n\n\n\n\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260114_215719__beta0p3_actnone_neg1_batch32\nbatch = 32\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\nbatch = 64\n20260115_001443__beta0p3_actnone_neg1_batch64\nbatch = 64\n20260113_050858__beta0p3_actnone_neg1\nbatch = 1024\n20260115_014705__beta0p3_actnone_neg1_batch1024\nbatch = 1024\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, share_activation=relu, early_stop=True\n\n\n\n\n\n\n\n\n\nbatch = 64\n20260114_122338__beta0p3_actrelu_neg1_batch64\nbatch = 1024\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, neg_within_group=True, share_activation=gelu, early_stop=False\n\n\n\n\n\n\n\n\n\nbatch = 32\n20260115_162427__beta1_actgelu_neg1_batch32_early_stop0\nbatch = 1024\n20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0",
+    "crumbs": [
+      "Overview",
+      "Compare batch"
+    ]
+  },
+  {
+    "objectID": "compare_activation.html",
+    "href": "compare_activation.html",
+    "title": "Comparison: activation",
+    "section": "",
+    "text": "Group: beta=0.1, neg_within_group=True, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\nshare_activation = n\n20260114_025352__beta0p1_actn_neg1_batch32\nshare_activation = o\n20260114_064430__beta0p1_acto_neg1_batch32\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=False, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_014012__beta0p3_actgelu_neg0\nshare_activation = gelu_ln\n20260113_035554__beta0p3_actgelu_ln_neg0\nshare_activation = none\n20260113_062550__beta0p3_actnone_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, early_stop=False, batch=32\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\nshare_activation = none\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, early_stop=False, batch=1024\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\nshare_activation = none\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260114_144007__beta0p3_actgelu_neg1_batch32\nshare_activation = gelu\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\nshare_activation = gelu_ln\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\nshare_activation = none\n20260114_215719__beta0p3_actnone_neg1_batch32\nshare_activation = none\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_003315__beta0p3_actgelu_neg1\nshare_activation = gelu\n20260114_163226__beta0p3_actgelu_neg1_batch64\nshare_activation = gelu_ln\n20260113_024957__beta0p3_actgelu_ln_neg1\nshare_activation = gelu_ln\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\nshare_activation = none\n20260113_050858__beta0p3_actnone_neg1\nshare_activation = none\n20260115_001443__beta0p3_actnone_neg1_batch64\nshare_activation = relu\n20260114_122338__beta0p3_actrelu_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, neg_within_group=True, early_stop=True, batch=1024\n\n\n\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nshare_activation = gelu\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\nshare_activation = gelu_ln\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\nshare_activation = none\n20260115_014705__beta0p3_actnone_neg1_batch1024\nshare_activation = none\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\nshare_activation = relu\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.7, neg_within_group=False, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_083520__beta0p7_actgelu_neg0\nshare_activation = gelu_ln\n20260113_111215__beta0p7_actgelu_ln_neg0\nshare_activation = none\n20260113_130212__beta0p7_actnone_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.7, neg_within_group=True, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_074727__beta0p7_actgelu_neg1\nshare_activation = gelu_ln\n20260113_095119__beta0p7_actgelu_ln_neg1\nshare_activation = none\n20260113_120653__beta0p7_actnone_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, neg_within_group=False, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_151724__beta1p0_actgelu_neg0\nshare_activation = gelu_ln\n20260113_171604__beta1p0_actgelu_ln_neg0\nshare_activation = none\n20260113_185647__beta1p0_actnone_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, neg_within_group=True, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nshare_activation = gelu\n20260113_141559__beta1p0_actgelu_neg1\nshare_activation = gelu_ln\n20260113_162324__beta1p0_actgelu_ln_neg1\nshare_activation = none\n20260113_181025__beta1p0_actnone_neg1",
+    "crumbs": [
+      "Overview",
+      "Compare activation"
+    ]
+  },
+  {
+    "objectID": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html",
+    "href": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#configuration",
+    "href": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#training-curves",
+    "href": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.861811\n0.267806\n0.021855\n0.572150\n0.054410\n1.000000e-04\n0.861811\n\n\n1\n1\n0.827801\n0.255225\n0.020618\n0.551958\n0.065053\n1.000000e-04\n0.844806\n\n\n2\n2\n0.784717\n0.238452\n0.019187\n0.527078\n0.064204\n1.000000e-04\n0.824776\n\n\n3\n3\n0.759002\n0.226136\n0.018657\n0.514209\n0.059815\n1.000000e-04\n0.808333\n\n\n4\n4\n0.744303\n0.218996\n0.018518\n0.506788\n0.059007\n1.000000e-04\n0.795527\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n360\n360\n0.687585\n0.199280\n0.016836\n0.471470\n0.065837\n1.000000e-07\n0.687472\n\n\n361\n361\n0.690061\n0.199675\n0.016821\n0.473565\n0.063969\n1.000000e-07\n0.687946\n\n\n362\n362\n0.688799\n0.199630\n0.016829\n0.472340\n0.064403\n1.000000e-07\n0.688042\n\n\n363\n363\n0.689606\n0.199650\n0.016832\n0.473124\n0.059925\n1.000000e-07\n0.688270\n\n\n364\n364\n0.687954\n0.199855\n0.016813\n0.471286\n0.066175\n1.000000e-07\n0.688373\n\n\n\n\n365 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#curves",
+    "href": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#key-figures",
+    "href": "runs/20260115_014705__beta0p3_actnone_neg1_batch1024.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260115_014705__beta0p3_actnone_neg1_batch1024/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_014705__beta0p3_actnone_neg1_batch1024/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_014705__beta0p3_actnone_neg1_batch1024/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_014705__beta0p3_actnone_neg1_batch1024/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_014705__beta0p3_actnone_neg1_batch1024/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html",
+    "href": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n32\nLEAP-008A\nbeta0p1_actn_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#configuration",
+    "href": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n32\nLEAP-008A\nbeta0p1_actn_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#training-curves",
+    "href": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.252788\n1.070138\n0.016699\n0.165951\n0.108223\n1.000000e-04\n1.252788\n\n\n1\n1\n1.121851\n0.963377\n0.015049\n0.143425\n0.105228\n1.000000e-04\n1.187320\n\n\n2\n2\n1.084466\n0.936819\n0.013810\n0.133837\n0.107541\n1.000000e-04\n1.153035\n\n\n3\n3\n1.066006\n0.917843\n0.013302\n0.134861\n0.113960\n1.000000e-04\n1.131278\n\n\n4\n4\n1.051563\n0.904256\n0.012991\n0.134316\n0.116542\n1.000000e-04\n1.115335\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n710\n710\n0.889057\n0.772602\n0.007654\n0.108800\n0.631099\n1.000000e-07\n0.890715\n\n\n711\n711\n0.891928\n0.772528\n0.007665\n0.111735\n0.635951\n1.000000e-07\n0.890764\n\n\n712\n712\n0.889891\n0.772586\n0.007656\n0.109649\n0.633281\n1.000000e-07\n0.890708\n\n\n713\n713\n0.891074\n0.772525\n0.007660\n0.110889\n0.635021\n1.000000e-07\n0.890694\n\n\n714\n714\n0.889928\n0.772635\n0.007667\n0.109626\n0.637975\n1.000000e-07\n0.890518\n\n\n\n\n715 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#curves",
+    "href": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#key-figures",
+    "href": "runs/20260114_025352__beta0p1_actn_neg1_batch32.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_025352__beta0p1_actn_neg1_batch32/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_025352__beta0p1_actn_neg1_batch32/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_025352__beta0p1_actn_neg1_batch32/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_025352__beta0p1_actn_neg1_batch32/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_025352__beta0p1_actn_neg1_batch32/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html",
+    "href": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#configuration",
+    "href": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#training-curves",
+    "href": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.650886\n1.070397\n0.077034\n0.503454\n0.357126\n0.0001\n1.650886\n\n\n1\n1\n1.475083\n0.990749\n0.056148\n0.428185\n0.371049\n0.0001\n1.562984\n\n\n2\n2\n1.438342\n0.975738\n0.058499\n0.404105\n0.407980\n0.0001\n1.521437\n\n\n3\n3\n1.441536\n0.959679\n0.059118\n0.422739\n0.455042\n0.0001\n1.501462\n\n\n4\n4\n1.424134\n0.937780\n0.057195\n0.429159\n0.485314\n0.0001\n1.485996\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n0.994785\n0.740444\n0.024811\n0.229530\n1.876401\n0.0001\n0.994635\n\n\n4996\n4996\n0.992098\n0.740439\n0.024794\n0.226865\n1.951370\n0.0001\n0.994562\n\n\n4997\n4997\n0.992931\n0.739629\n0.024672\n0.228630\n1.906488\n0.0001\n0.994646\n\n\n4998\n4998\n0.994185\n0.740164\n0.024864\n0.229156\n1.889930\n0.0001\n0.994720\n\n\n4999\n4999\n0.993936\n0.740142\n0.024705\n0.229089\n1.881174\n0.0001\n0.995284\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#curves",
+    "href": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#key-figures",
+    "href": "runs/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_185647__beta1p0_actnone_neg0.html",
+    "href": "runs/20260113_185647__beta1p0_actnone_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\nnone\nFalse\nLEAP-008A\nbeta1p0_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_185647__beta1p0_actnone_neg0.html#configuration",
+    "href": "runs/20260113_185647__beta1p0_actnone_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\nnone\nFalse\nLEAP-008A\nbeta1p0_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_185647__beta1p0_actnone_neg0.html#training-curves",
+    "href": "runs/20260113_185647__beta1p0_actnone_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.462536\n0.802348\n0.017546\n1.642641\n0.750802\n1.000000e-04\n2.462536\n\n\n1\n1\n2.424278\n0.742330\n0.016894\n1.665054\n0.550036\n1.000000e-04\n2.443407\n\n\n2\n2\n2.268579\n0.724798\n0.015697\n1.528084\n0.646214\n1.000000e-04\n2.385131\n\n\n3\n3\n2.234338\n0.710370\n0.010794\n1.513174\n0.822596\n1.000000e-04\n2.347433\n\n\n4\n4\n2.134216\n0.706994\n0.010180\n1.417041\n0.873141\n1.000000e-04\n2.304789\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n437\n437\n1.699376\n0.621195\n0.006085\n1.072096\n1.023055\n1.000000e-07\n1.689216\n\n\n438\n438\n1.681702\n0.620613\n0.006102\n1.054988\n1.037747\n1.000000e-07\n1.689100\n\n\n439\n439\n1.673044\n0.620541\n0.006093\n1.046409\n1.049428\n1.000000e-07\n1.687325\n\n\n440\n440\n1.684585\n0.621716\n0.006099\n1.056771\n1.026049\n1.000000e-07\n1.686229\n\n\n441\n441\n1.689843\n0.621227\n0.006085\n1.062531\n1.050143\n1.000000e-07\n1.687673\n\n\n\n\n442 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_185647__beta1p0_actnone_neg0.html#curves",
+    "href": "runs/20260113_185647__beta1p0_actnone_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_185647__beta1p0_actnone_neg0.html#key-figures",
+    "href": "runs/20260113_185647__beta1p0_actnone_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_185647__beta1p0_actnone_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_185647__beta1p0_actnone_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_185647__beta1p0_actnone_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_185647__beta1p0_actnone_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_185647__beta1p0_actnone_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_050858__beta0p3_actnone_neg1.html",
+    "href": "runs/20260113_050858__beta0p3_actnone_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_050858__beta0p3_actnone_neg1.html#configuration",
+    "href": "runs/20260113_050858__beta0p3_actnone_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_050858__beta0p3_actnone_neg1.html#training-curves",
+    "href": "runs/20260113_050858__beta0p3_actnone_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.313063\n0.804619\n0.017186\n0.491258\n0.226943\n1.000000e-04\n1.313063\n\n\n1\n1\n1.241143\n0.752393\n0.016236\n0.472514\n0.218983\n1.000000e-04\n1.277103\n\n\n2\n2\n1.228663\n0.713154\n0.016707\n0.498802\n0.221771\n1.000000e-04\n1.260956\n\n\n3\n3\n1.173177\n0.698505\n0.015407\n0.459265\n0.234611\n1.000000e-04\n1.239011\n\n\n4\n4\n1.158498\n0.691086\n0.014945\n0.452468\n0.267688\n1.000000e-04\n1.222909\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n659\n659\n0.934650\n0.572986\n0.008273\n0.353390\n0.746000\n1.000000e-07\n0.936195\n\n\n660\n660\n0.935965\n0.572258\n0.008276\n0.355432\n0.739824\n1.000000e-07\n0.936020\n\n\n661\n661\n0.937564\n0.572513\n0.008276\n0.356776\n0.743099\n1.000000e-07\n0.935939\n\n\n662\n662\n0.939790\n0.573195\n0.008263\n0.358332\n0.735342\n1.000000e-07\n0.936391\n\n\n663\n663\n0.936244\n0.572611\n0.008259\n0.355375\n0.738553\n1.000000e-07\n0.936345\n\n\n\n\n664 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_050858__beta0p3_actnone_neg1.html#curves",
+    "href": "runs/20260113_050858__beta0p3_actnone_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_050858__beta0p3_actnone_neg1.html#key-figures",
+    "href": "runs/20260113_050858__beta0p3_actnone_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_050858__beta0p3_actnone_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_050858__beta0p3_actnone_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_050858__beta0p3_actnone_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_050858__beta0p3_actnone_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_050858__beta0p3_actnone_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_014012__beta0p3_actgelu_neg0.html",
+    "href": "runs/20260113_014012__beta0p3_actgelu_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_014012__beta0p3_actgelu_neg0.html#configuration",
+    "href": "runs/20260113_014012__beta0p3_actgelu_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_014012__beta0p3_actgelu_neg0.html#training-curves",
+    "href": "runs/20260113_014012__beta0p3_actgelu_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.304717\n0.798528\n0.017261\n0.488928\n0.218550\n1.000000e-04\n1.304717\n\n\n1\n1\n1.181136\n0.723915\n0.013042\n0.444179\n0.172921\n1.000000e-04\n1.242927\n\n\n2\n2\n1.147962\n0.702637\n0.011252\n0.434072\n0.228261\n1.000000e-04\n1.211272\n\n\n3\n3\n1.092017\n0.689811\n0.010807\n0.391400\n0.236235\n1.000000e-04\n1.181458\n\n\n4\n4\n1.071418\n0.683101\n0.010508\n0.377810\n0.249017\n1.000000e-04\n1.159450\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n587\n587\n0.804126\n0.567504\n0.005693\n0.230930\n0.519559\n1.000000e-07\n0.804360\n\n\n588\n588\n0.802525\n0.567632\n0.005695\n0.229197\n0.511844\n1.000000e-07\n0.804412\n\n\n589\n589\n0.803618\n0.567451\n0.005691\n0.230476\n0.513437\n1.000000e-07\n0.804261\n\n\n590\n590\n0.805606\n0.567353\n0.005714\n0.232539\n0.512699\n1.000000e-07\n0.804315\n\n\n591\n591\n0.805859\n0.567381\n0.005695\n0.232783\n0.516988\n1.000000e-07\n0.804289\n\n\n\n\n592 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_014012__beta0p3_actgelu_neg0.html#curves",
+    "href": "runs/20260113_014012__beta0p3_actgelu_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_014012__beta0p3_actgelu_neg0.html#key-figures",
+    "href": "runs/20260113_014012__beta0p3_actgelu_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_014012__beta0p3_actgelu_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_014012__beta0p3_actgelu_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_014012__beta0p3_actgelu_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_014012__beta0p3_actgelu_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_014012__beta0p3_actgelu_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html",
+    "href": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nFalse\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#configuration",
+    "href": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nFalse\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#training-curves",
+    "href": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.647883\n1.104524\n0.019362\n0.523997\n0.283907\n0.0001\n1.647883\n\n\n1\n1\n1.532697\n1.013206\n0.019654\n0.499837\n0.245487\n0.0001\n1.590290\n\n\n2\n2\n1.490298\n0.992746\n0.017466\n0.480086\n0.262499\n0.0001\n1.556959\n\n\n3\n3\n1.485544\n0.983749\n0.016740\n0.485056\n0.267122\n0.0001\n1.539105\n\n\n4\n4\n1.473867\n0.976130\n0.016594\n0.481143\n0.249558\n0.0001\n1.526058\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n0.986713\n0.738164\n0.012674\n0.235875\n0.205732\n0.0001\n0.987292\n\n\n4996\n4996\n0.990689\n0.738557\n0.012658\n0.239475\n0.206012\n0.0001\n0.987372\n\n\n4997\n4997\n0.985290\n0.738205\n0.012676\n0.234409\n0.205955\n0.0001\n0.987304\n\n\n4998\n4998\n0.988996\n0.737974\n0.012660\n0.238363\n0.202828\n0.0001\n0.987312\n\n\n4999\n4999\n0.984563\n0.737982\n0.012674\n0.233906\n0.205368\n0.0001\n0.986783\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#curves",
+    "href": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#key-figures",
+    "href": "runs/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html",
+    "href": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n1024\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#configuration",
+    "href": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n1024\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#training-curves",
+    "href": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.846294\n0.267629\n0.020324\n0.558341\n0.070338\n1.000000e-04\n0.846294\n\n\n1\n1\n0.788838\n0.253265\n0.018578\n0.516996\n0.083319\n1.000000e-04\n0.817566\n\n\n2\n2\n0.742875\n0.236719\n0.017193\n0.488963\n0.076295\n1.000000e-04\n0.792669\n\n\n3\n3\n0.719309\n0.225535\n0.016599\n0.477175\n0.071323\n1.000000e-04\n0.774329\n\n\n4\n4\n0.706721\n0.219549\n0.016335\n0.470837\n0.070046\n1.000000e-04\n0.760807\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n337\n337\n0.713112\n0.195082\n0.018288\n0.499742\n0.066951\n1.000000e-07\n0.713059\n\n\n338\n338\n0.712134\n0.195701\n0.018254\n0.498180\n0.072093\n1.000000e-07\n0.712969\n\n\n339\n339\n0.712989\n0.195973\n0.018294\n0.498722\n0.070793\n1.000000e-07\n0.712926\n\n\n340\n340\n0.712243\n0.195872\n0.018236\n0.498135\n0.069812\n1.000000e-07\n0.712800\n\n\n341\n341\n0.712265\n0.195502\n0.018196\n0.498567\n0.070186\n1.000000e-07\n0.712780\n\n\n\n\n342 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#curves",
+    "href": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#key-figures",
+    "href": "runs/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_213937__beta0p3_actgelu_ln_neg1_batch1024/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html",
+    "href": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#configuration",
+    "href": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#training-curves",
+    "href": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.899544\n0.254679\n0.077758\n0.567107\n0.060170\n1.000000e-04\n0.899544\n\n\n1\n1\n0.873261\n0.242190\n0.076496\n0.554575\n0.069848\n1.000000e-04\n0.886402\n\n\n2\n2\n0.837755\n0.226821\n0.076901\n0.534033\n0.080411\n1.000000e-04\n0.870186\n\n\n3\n3\n0.799489\n0.212063\n0.076614\n0.510812\n0.081146\n1.000000e-04\n0.852512\n\n\n4\n4\n0.770570\n0.202427\n0.074905\n0.493239\n0.078153\n1.000000e-04\n0.836124\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n678\n678\n0.598328\n0.174597\n0.026493\n0.397238\n0.169030\n1.000000e-07\n0.596803\n\n\n679\n679\n0.597877\n0.174946\n0.026340\n0.396591\n0.162182\n1.000000e-07\n0.596676\n\n\n680\n680\n0.597501\n0.174486\n0.026321\n0.396694\n0.162428\n1.000000e-07\n0.596496\n\n\n681\n681\n0.599189\n0.174607\n0.026411\n0.398171\n0.163844\n1.000000e-07\n0.596988\n\n\n682\n682\n0.599481\n0.174750\n0.026423\n0.398308\n0.152774\n1.000000e-07\n0.597320\n\n\n\n\n683 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#curves",
+    "href": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#key-figures",
+    "href": "runs/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_130212__beta0p7_actnone_neg0.html",
+    "href": "runs/20260113_130212__beta0p7_actnone_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\nnone\nFalse\nLEAP-008A\nbeta0p7_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_130212__beta0p7_actnone_neg0.html#configuration",
+    "href": "runs/20260113_130212__beta0p7_actnone_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\nnone\nFalse\nLEAP-008A\nbeta0p7_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_130212__beta0p7_actnone_neg0.html#training-curves",
+    "href": "runs/20260113_130212__beta0p7_actnone_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.974265\n0.801031\n0.017491\n1.155743\n0.502705\n1.000000e-04\n1.974265\n\n\n1\n1\n1.911545\n0.738513\n0.017034\n1.155998\n0.373934\n1.000000e-04\n1.942905\n\n\n2\n2\n1.769332\n0.714172\n0.012292\n1.042868\n0.505148\n1.000000e-04\n1.885047\n\n\n3\n3\n1.735690\n0.704530\n0.011024\n1.020135\n0.602181\n1.000000e-04\n1.847708\n\n\n4\n4\n1.661532\n0.697066\n0.010592\n0.953873\n0.612832\n1.000000e-04\n1.810473\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n632\n632\n1.211896\n0.591770\n0.006034\n0.614093\n0.841275\n1.000000e-07\n1.216758\n\n\n633\n633\n1.221802\n0.591747\n0.006041\n0.624015\n0.839140\n1.000000e-07\n1.217210\n\n\n634\n634\n1.214536\n0.591401\n0.006027\n0.617108\n0.830362\n1.000000e-07\n1.217476\n\n\n635\n635\n1.218338\n0.591649\n0.006027\n0.620662\n0.841340\n1.000000e-07\n1.217188\n\n\n636\n636\n1.213740\n0.591014\n0.006030\n0.616696\n0.837501\n1.000000e-07\n1.216556\n\n\n\n\n637 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_130212__beta0p7_actnone_neg0.html#curves",
+    "href": "runs/20260113_130212__beta0p7_actnone_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_130212__beta0p7_actnone_neg0.html#key-figures",
+    "href": "runs/20260113_130212__beta0p7_actnone_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_130212__beta0p7_actnone_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_130212__beta0p7_actnone_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_130212__beta0p7_actnone_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_130212__beta0p7_actnone_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_130212__beta0p7_actnone_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html",
+    "href": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu_ln\nTrue\nLEAP-008A\nbeta0p7_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#configuration",
+    "href": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu_ln\nTrue\nLEAP-008A\nbeta0p7_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#training-curves",
+    "href": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.969476\n0.806379\n0.017363\n1.145734\n0.540249\n1.000000e-04\n1.969476\n\n\n1\n1\n1.871090\n0.761567\n0.016177\n1.093346\n0.529150\n1.000000e-04\n1.920283\n\n\n2\n2\n1.912936\n0.741556\n0.016649\n1.154731\n0.514963\n1.000000e-04\n1.917834\n\n\n3\n3\n1.910634\n0.716473\n0.017135\n1.177027\n0.521504\n1.000000e-04\n1.916034\n\n\n4\n4\n1.810339\n0.705550\n0.016251\n1.088538\n0.546039\n1.000000e-04\n1.894895\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n706\n706\n1.547426\n0.614841\n0.009930\n0.922655\n1.378119\n1.000000e-07\n1.543977\n\n\n707\n707\n1.541668\n0.614946\n0.009969\n0.916753\n1.393152\n1.000000e-07\n1.544269\n\n\n708\n708\n1.547675\n0.615314\n0.009985\n0.922376\n1.383057\n1.000000e-07\n1.544267\n\n\n709\n709\n1.545060\n0.614862\n0.009954\n0.920244\n1.375082\n1.000000e-07\n1.543870\n\n\n710\n710\n1.542239\n0.615194\n0.009958\n0.917086\n1.374204\n1.000000e-07\n1.544113\n\n\n\n\n711 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#curves",
+    "href": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#key-figures",
+    "href": "runs/20260113_095119__beta0p7_actgelu_ln_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_095119__beta0p7_actgelu_ln_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_095119__beta0p7_actgelu_ln_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_095119__beta0p7_actgelu_ln_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_095119__beta0p7_actgelu_ln_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_095119__beta0p7_actgelu_ln_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html",
+    "href": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu_ln\nTrue\nLEAP-008A\nbeta1p0_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#configuration",
+    "href": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu_ln\nTrue\nLEAP-008A\nbeta1p0_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#training-curves",
+    "href": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.458084\n0.807104\n0.017369\n1.633611\n0.779155\n1.000000e-04\n2.458084\n\n\n1\n1\n2.345623\n0.762244\n0.016205\n1.567174\n0.752027\n1.000000e-04\n2.401853\n\n\n2\n2\n2.433821\n0.748550\n0.016447\n1.668824\n0.724058\n1.000000e-04\n2.412509\n\n\n3\n3\n2.439544\n0.732299\n0.016683\n1.690563\n0.721592\n1.000000e-04\n2.419268\n\n\n4\n4\n2.235358\n0.716216\n0.015467\n1.503675\n0.760368\n1.000000e-04\n2.382486\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n442\n442\n2.048214\n0.637360\n0.013661\n1.397193\n1.542676\n1.000000e-07\n2.057093\n\n\n443\n443\n2.050441\n0.637550\n0.013647\n1.399244\n1.520547\n1.000000e-07\n2.055898\n\n\n444\n444\n2.045101\n0.637429\n0.013683\n1.393990\n1.561513\n1.000000e-07\n2.054867\n\n\n445\n445\n2.056333\n0.637599\n0.013687\n1.405047\n1.537597\n1.000000e-07\n2.054393\n\n\n446\n446\n2.054808\n0.637762\n0.013662\n1.403384\n1.549802\n1.000000e-07\n2.054522\n\n\n\n\n447 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#curves",
+    "href": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#key-figures",
+    "href": "runs/20260113_162324__beta1p0_actgelu_ln_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_162324__beta1p0_actgelu_ln_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_162324__beta1p0_actgelu_ln_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_162324__beta1p0_actgelu_ln_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_162324__beta1p0_actgelu_ln_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_162324__beta1p0_actgelu_ln_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html",
+    "href": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n64\nLEAP-008A\nbeta0p3_actnone_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#configuration",
+    "href": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n64\nLEAP-008A\nbeta0p3_actnone_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#training-curves",
+    "href": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.355980\n0.808212\n0.019329\n0.528438\n0.201653\n1.000000e-04\n1.355980\n\n\n1\n1\n1.271956\n0.748360\n0.019455\n0.504141\n0.184911\n1.000000e-04\n1.313968\n\n\n2\n2\n1.249808\n0.717578\n0.019792\n0.512438\n0.173724\n1.000000e-04\n1.292581\n\n\n3\n3\n1.183207\n0.707238\n0.018429\n0.457540\n0.186959\n1.000000e-04\n1.265238\n\n\n4\n4\n1.169617\n0.694588\n0.017730\n0.457298\n0.185134\n1.000000e-04\n1.246114\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n786\n786\n0.984240\n0.579815\n0.014427\n0.389998\n0.121168\n1.000000e-07\n0.985846\n\n\n787\n787\n0.982446\n0.580171\n0.014432\n0.387843\n0.123540\n1.000000e-07\n0.985622\n\n\n788\n788\n0.984722\n0.579705\n0.014429\n0.390588\n0.123232\n1.000000e-07\n0.985530\n\n\n789\n789\n0.987842\n0.579652\n0.014439\n0.393751\n0.119205\n1.000000e-07\n0.985572\n\n\n790\n790\n0.988251\n0.579803\n0.014430\n0.394018\n0.122382\n1.000000e-07\n0.986024\n\n\n\n\n791 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#curves",
+    "href": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#key-figures",
+    "href": "runs/20260115_001443__beta0p3_actnone_neg1_batch64.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260115_001443__beta0p3_actnone_neg1_batch64/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_001443__beta0p3_actnone_neg1_batch64/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_001443__beta0p3_actnone_neg1_batch64/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_001443__beta0p3_actnone_neg1_batch64/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_001443__beta0p3_actnone_neg1_batch64/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html",
+    "href": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#configuration",
+    "href": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#training-curves",
+    "href": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.851467\n0.256009\n0.021938\n0.573520\n0.049831\n1.000000e-04\n0.851467\n\n\n1\n1\n0.836460\n0.250146\n0.021475\n0.564839\n0.058920\n1.000000e-04\n0.843964\n\n\n2\n2\n0.806831\n0.241291\n0.020187\n0.545353\n0.066648\n1.000000e-04\n0.831586\n\n\n3\n3\n0.774750\n0.229176\n0.019158\n0.526416\n0.062971\n1.000000e-04\n0.817377\n\n\n4\n4\n0.751197\n0.218113\n0.018679\n0.514405\n0.059109\n1.000000e-04\n0.804141\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n369\n369\n0.695363\n0.183116\n0.015910\n0.496338\n0.058387\n1.000000e-07\n0.696377\n\n\n370\n370\n0.694359\n0.183166\n0.015897\n0.495296\n0.059115\n1.000000e-07\n0.696183\n\n\n371\n371\n0.697455\n0.183017\n0.015897\n0.498541\n0.056693\n1.000000e-07\n0.696250\n\n\n372\n372\n0.697796\n0.183067\n0.015896\n0.498833\n0.052824\n1.000000e-07\n0.696505\n\n\n373\n373\n0.695279\n0.183029\n0.015904\n0.496346\n0.057943\n1.000000e-07\n0.696470\n\n\n\n\n374 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#curves",
+    "href": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#key-figures",
+    "href": "runs/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_120653__beta0p7_actnone_neg1.html",
+    "href": "runs/20260113_120653__beta0p7_actnone_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\nnone\nTrue\nLEAP-008A\nbeta0p7_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_120653__beta0p7_actnone_neg1.html#configuration",
+    "href": "runs/20260113_120653__beta0p7_actnone_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\nnone\nTrue\nLEAP-008A\nbeta0p7_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_120653__beta0p7_actnone_neg1.html#training-curves",
+    "href": "runs/20260113_120653__beta0p7_actnone_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.970862\n0.806171\n0.017400\n1.147291\n0.538127\n1.000000e-04\n1.970862\n\n\n1\n1\n1.868795\n0.760050\n0.016181\n1.092564\n0.523721\n1.000000e-04\n1.919829\n\n\n2\n2\n1.916268\n0.740510\n0.016661\n1.159097\n0.506149\n1.000000e-04\n1.918642\n\n\n3\n3\n1.913693\n0.717819\n0.017013\n1.178860\n0.514374\n1.000000e-04\n1.917405\n\n\n4\n4\n1.779793\n0.707461\n0.016256\n1.056076\n0.545027\n1.000000e-04\n1.889882\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n441\n441\n1.548118\n0.614775\n0.010122\n0.923221\n1.389592\n1.000000e-07\n1.550676\n\n\n442\n442\n1.560841\n0.615386\n0.010122\n0.935334\n1.353627\n1.000000e-07\n1.552069\n\n\n443\n443\n1.556245\n0.615569\n0.010117\n0.930559\n1.354722\n1.000000e-07\n1.553077\n\n\n444\n444\n1.547417\n0.614623\n0.010106\n0.922688\n1.353672\n1.000000e-07\n1.552916\n\n\n445\n445\n1.548699\n0.615461\n0.010139\n0.923099\n1.354582\n1.000000e-07\n1.552557\n\n\n\n\n446 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_120653__beta0p7_actnone_neg1.html#curves",
+    "href": "runs/20260113_120653__beta0p7_actnone_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_120653__beta0p7_actnone_neg1.html#key-figures",
+    "href": "runs/20260113_120653__beta0p7_actnone_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_120653__beta0p7_actnone_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_120653__beta0p7_actnone_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_120653__beta0p7_actnone_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_120653__beta0p7_actnone_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_120653__beta0p7_actnone_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html",
+    "href": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n1\ngelu\nTrue\n1024\nFalse\nLEAP-008A\nbeta1_actgelu_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#configuration",
+    "href": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n1\ngelu\nTrue\n1024\nFalse\nLEAP-008A\nbeta1_actgelu_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#training-curves",
+    "href": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.219037\n0.254706\n0.084292\n1.880040\n0.199551\n0.0001\n2.219037\n\n\n1\n1\n2.151570\n0.239145\n0.102620\n1.809805\n0.236146\n0.0001\n2.185303\n\n\n2\n2\n2.073948\n0.220704\n0.118063\n1.735181\n0.250243\n0.0001\n2.148185\n\n\n3\n3\n2.008309\n0.205146\n0.128888\n1.674275\n0.242917\n0.0001\n2.113216\n\n\n4\n4\n1.967921\n0.198122\n0.131799\n1.638000\n0.237411\n0.0001\n2.084157\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n1.233988\n0.149597\n0.025972\n1.058419\n1.948405\n0.0001\n1.237146\n\n\n4996\n4996\n1.254071\n0.149635\n0.026183\n1.078254\n1.698230\n0.0001\n1.237225\n\n\n4997\n4997\n1.241124\n0.149587\n0.026115\n1.065422\n1.646226\n0.0001\n1.238636\n\n\n4998\n4998\n1.258115\n0.149612\n0.026200\n1.082303\n1.589116\n0.0001\n1.239893\n\n\n4999\n4999\n1.233793\n0.149434\n0.026290\n1.058069\n1.550531\n0.0001\n1.240344\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#curves",
+    "href": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#key-figures",
+    "href": "runs/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html",
+    "href": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n256\nLEAP-008A\nbeta0p1_actn_neg1_batch256\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#configuration",
+    "href": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n256\nLEAP-008A\nbeta0p1_actn_neg1_batch256\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#training-curves",
+    "href": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.641179\n0.448538\n0.018444\n0.174196\n0.042843\n1.000000e-04\n0.641179\n\n\n1\n1\n0.564568\n0.390379\n0.015889\n0.158300\n0.037898\n1.000000e-04\n0.602873\n\n\n2\n2\n0.557250\n0.385595\n0.015618\n0.156037\n0.036930\n1.000000e-04\n0.587665\n\n\n3\n3\n0.551164\n0.379026\n0.015772\n0.156366\n0.036077\n1.000000e-04\n0.578540\n\n\n4\n4\n0.547638\n0.368235\n0.016101\n0.163302\n0.034831\n1.000000e-04\n0.572359\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n760\n760\n0.413191\n0.287087\n0.008663\n0.117441\n0.131218\n1.000000e-07\n0.413878\n\n\n761\n761\n0.414173\n0.287029\n0.008638\n0.118506\n0.129899\n1.000000e-07\n0.414014\n\n\n762\n762\n0.414280\n0.286919\n0.008674\n0.118686\n0.131827\n1.000000e-07\n0.414070\n\n\n763\n763\n0.415004\n0.287122\n0.008661\n0.119221\n0.130883\n1.000000e-07\n0.414102\n\n\n764\n764\n0.413633\n0.287043\n0.008633\n0.117957\n0.132726\n1.000000e-07\n0.413998\n\n\n\n\n765 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#curves",
+    "href": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#key-figures",
+    "href": "runs/20260114_052102__beta0p1_actn_neg1_batch256.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_052102__beta0p1_actn_neg1_batch256/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_052102__beta0p1_actn_neg1_batch256/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_052102__beta0p1_actn_neg1_batch256/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_052102__beta0p1_actn_neg1_batch256/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_052102__beta0p1_actn_neg1_batch256/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_003315__beta0p3_actgelu_neg1.html",
+    "href": "runs/20260113_003315__beta0p3_actgelu_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_003315__beta0p3_actgelu_neg1.html#configuration",
+    "href": "runs/20260113_003315__beta0p3_actgelu_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_003315__beta0p3_actgelu_neg1.html#training-curves",
+    "href": "runs/20260113_003315__beta0p3_actgelu_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.311700\n0.804658\n0.017177\n0.489865\n0.229956\n1.000000e-04\n1.311700\n\n\n1\n1\n1.241626\n0.751180\n0.016242\n0.474205\n0.217499\n1.000000e-04\n1.276663\n\n\n2\n2\n1.223016\n0.712614\n0.016412\n0.493990\n0.219397\n1.000000e-04\n1.258781\n\n\n3\n3\n1.161053\n0.698536\n0.014767\n0.447749\n0.243431\n1.000000e-04\n1.234349\n\n\n4\n4\n1.155991\n0.689630\n0.014256\n0.452106\n0.261503\n1.000000e-04\n1.218677\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n560\n560\n0.943537\n0.574063\n0.008466\n0.361008\n0.603666\n1.000000e-07\n0.940457\n\n\n561\n561\n0.939878\n0.573944\n0.008470\n0.357463\n0.603948\n1.000000e-07\n0.940499\n\n\n562\n562\n0.941287\n0.574065\n0.008471\n0.358751\n0.599448\n1.000000e-07\n0.940458\n\n\n563\n563\n0.938557\n0.574213\n0.008462\n0.355882\n0.606427\n1.000000e-07\n0.940363\n\n\n564\n564\n0.944827\n0.573945\n0.008476\n0.362407\n0.597418\n1.000000e-07\n0.940447\n\n\n\n\n565 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_003315__beta0p3_actgelu_neg1.html#curves",
+    "href": "runs/20260113_003315__beta0p3_actgelu_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_003315__beta0p3_actgelu_neg1.html#key-figures",
+    "href": "runs/20260113_003315__beta0p3_actgelu_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_003315__beta0p3_actgelu_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_003315__beta0p3_actgelu_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_003315__beta0p3_actgelu_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_003315__beta0p3_actgelu_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_003315__beta0p3_actgelu_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html",
+    "href": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#configuration",
+    "href": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#training-curves",
+    "href": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.899719\n0.254159\n0.078061\n0.567498\n0.059959\n0.0001\n0.899719\n\n\n1\n1\n0.873404\n0.241033\n0.077484\n0.554888\n0.069849\n0.0001\n0.886561\n\n\n2\n2\n0.838199\n0.224641\n0.079954\n0.533604\n0.079901\n0.0001\n0.870441\n\n\n3\n3\n0.801561\n0.209033\n0.081791\n0.510738\n0.080552\n0.0001\n0.853221\n\n\n4\n4\n0.775425\n0.200152\n0.078815\n0.496457\n0.078610\n0.0001\n0.837662\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n0.419025\n0.143471\n0.014765\n0.260790\n1.801702\n0.0001\n0.416818\n\n\n4996\n4996\n0.414102\n0.143285\n0.014866\n0.255950\n1.814105\n0.0001\n0.416421\n\n\n4997\n4997\n0.422210\n0.143579\n0.014854\n0.263777\n2.153935\n0.0001\n0.417057\n\n\n4998\n4998\n0.417377\n0.143558\n0.014807\n0.259012\n2.247939\n0.0001\n0.416641\n\n\n4999\n4999\n0.413797\n0.143471\n0.014836\n0.255490\n2.355155\n0.0001\n0.416535\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#curves",
+    "href": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#key-figures",
+    "href": "runs/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html",
+    "href": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n1024\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#configuration",
+    "href": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\nn\nTrue\n1024\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#training-curves",
+    "href": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.474176\n0.267414\n0.020648\n0.186114\n0.024635\n1.000000e-04\n0.474176\n\n\n1\n1\n0.445065\n0.253645\n0.018418\n0.173003\n0.030161\n1.000000e-04\n0.459620\n\n\n2\n2\n0.416542\n0.236080\n0.016680\n0.163781\n0.026511\n1.000000e-04\n0.445261\n\n\n3\n3\n0.400055\n0.224730\n0.016087\n0.159238\n0.023607\n1.000000e-04\n0.433959\n\n\n4\n4\n0.391458\n0.218286\n0.015811\n0.157361\n0.022530\n1.000000e-04\n0.425459\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n690\n690\n0.331121\n0.179265\n0.010285\n0.141571\n0.037488\n1.000000e-07\n0.330731\n\n\n691\n691\n0.331417\n0.179731\n0.010257\n0.141429\n0.037508\n1.000000e-07\n0.330850\n\n\n692\n692\n0.331071\n0.179260\n0.010268\n0.141543\n0.037071\n1.000000e-07\n0.331042\n\n\n693\n693\n0.331078\n0.179756\n0.010235\n0.141087\n0.037146\n1.000000e-07\n0.330963\n\n\n694\n694\n0.330229\n0.179089\n0.010299\n0.140840\n0.035875\n1.000000e-07\n0.330723\n\n\n\n\n695 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#curves",
+    "href": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#key-figures",
+    "href": "runs/20260114_060726__beta0p1_actn_neg1_batch1024.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_060726__beta0p1_actn_neg1_batch1024/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_060726__beta0p1_actn_neg1_batch1024/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_060726__beta0p1_actn_neg1_batch1024/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_060726__beta0p1_actn_neg1_batch1024/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_060726__beta0p1_actn_neg1_batch1024/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html",
+    "href": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n32\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#configuration",
+    "href": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n32\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#training-curves",
+    "href": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.598689\n1.096618\n0.016845\n0.485226\n0.323696\n1.000000e-04\n1.598689\n\n\n1\n1\n1.494116\n0.998004\n0.015970\n0.480142\n0.288906\n1.000000e-04\n1.546402\n\n\n2\n2\n1.427607\n0.971941\n0.013723\n0.441943\n0.322101\n1.000000e-04\n1.506804\n\n\n3\n3\n1.420409\n0.956718\n0.013358\n0.450334\n0.349666\n1.000000e-04\n1.485205\n\n\n4\n4\n1.411152\n0.944886\n0.013980\n0.452286\n0.358635\n1.000000e-04\n1.470395\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n693\n693\n1.127862\n0.790625\n0.008301\n0.328936\n0.484712\n1.000000e-07\n1.127757\n\n\n694\n694\n1.130139\n0.790395\n0.008302\n0.331443\n0.481976\n1.000000e-07\n1.128035\n\n\n695\n695\n1.128430\n0.790496\n0.008305\n0.329629\n0.482967\n1.000000e-07\n1.128069\n\n\n696\n696\n1.130126\n0.790482\n0.008298\n0.331347\n0.482096\n1.000000e-07\n1.128434\n\n\n697\n697\n1.129393\n0.790601\n0.008315\n0.330478\n0.482835\n1.000000e-07\n1.128781\n\n\n\n\n698 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#curves",
+    "href": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#key-figures",
+    "href": "runs/20260114_175953__beta0p3_actgelu_ln_neg1_batch32.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_175953__beta0p3_actgelu_ln_neg1_batch32/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_175953__beta0p3_actgelu_ln_neg1_batch32/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_175953__beta0p3_actgelu_ln_neg1_batch32/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_175953__beta0p3_actgelu_ln_neg1_batch32/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_175953__beta0p3_actgelu_ln_neg1_batch32/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "A registry table of all runs under ./assets/model_results/\nPer-run pages with configuration, training curves, and key figures\nQuick comparisons across beta / activation / neg_within_group\n\n\n\n\n\n\n\n\n\n\nrun_dir\nbeta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\nbest_epoch\nbest_smooth_loss\nfinal_total_loss\nfinal_lr\nlogged_epoch\nhas_harmony_fig\nlink\n\n\n\n\n20\n20260114_060726__beta0p1_actn_neg1_batch1024\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\n1024\nTrue\n594\n0.330675\n0.330229\n1.000000e-07\n695\nTrue\nruns/20260114_060726__beta0p1_actn_neg1_batch1...\n\n\n19\n20260114_052102__beta0p1_actn_neg1_batch256\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch256\n256\nTrue\n589\n0.413216\n0.413633\n1.000000e-07\n765\nTrue\nruns/20260114_052102__beta0p1_actn_neg1_batch2...\n\n\n39\n20260116_043857__beta0p3_actgelu_neg1_batch102...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\n4897\n0.415383\n0.413797\n1.000000e-04\n5000\nTrue\nruns/20260116_043857__beta0p3_actgelu_neg1_bat...\n\n\n23\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\n1024\nTrue\n570\n0.463908\n0.465853\n1.000000e-07\n735\nTrue\nruns/20260114_140507__beta0p3_actrelu_neg1_bat...\n\n\n40\n20260116_045146__beta0p3_actnone_neg1_batch102...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0\n1024\nFalse\n4504\n0.570228\n0.570570\n1.000000e-04\n5000\nTrue\nruns/20260116_045146__beta0p3_actnone_neg1_bat...\n\n\n42\n20260116_064323__beta0p3_actgelu_neg1_batch102...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop1\n1024\nTrue\n486\n0.595807\n0.599481\n1.000000e-07\n683\nTrue\nruns/20260116_064323__beta0p3_actgelu_neg1_bat...\n\n\n26\n20260114_173924__beta0p3_actgelu_neg1_batch1024\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024\n1024\nTrue\n155\n0.651323\n0.651109\n1.000000e-07\n418\nTrue\nruns/20260114_173924__beta0p3_actgelu_neg1_bat...\n\n\n41\n20260116_064243__beta0p3_actnone_neg1_batch102...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop1\n1024\nTrue\n44\n0.662235\n0.695279\n1.000000e-07\n374\nTrue\nruns/20260116_064243__beta0p3_actnone_neg1_bat...\n\n\n32\n20260115_014705__beta0p3_actnone_neg1_batch1024\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024\n1024\nTrue\n35\n0.667159\n0.687954\n1.000000e-07\n365\nTrue\nruns/20260115_014705__beta0p3_actnone_neg1_bat...\n\n\n29\n20260114_213937__beta0p3_actgelu_ln_neg1_batch...\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch1024\n1024\nTrue\n12\n0.706276\n0.712265\n1.000000e-07\n342\nTrue\nruns/20260114_213937__beta0p3_actgelu_ln_neg1_...\n\n\n22\n20260114_122338__beta0p3_actrelu_neg1_batch64\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch64\n64\nTrue\n756\n0.796738\n0.799369\n1.000000e-07\n857\nTrue\nruns/20260114_122338__beta0p3_actrelu_neg1_bat...\n\n\n1\n20260113_014012__beta0p3_actgelu_neg0\n0.3\ngelu\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg0\n64\nTrue\n285\n0.801883\n0.805859\n1.000000e-07\n592\nTrue\nruns/20260113_014012__beta0p3_actgelu_neg0.html\n\n\n3\n20260113_035554__beta0p3_actgelu_ln_neg0\n0.3\ngelu_ln\nFalse\nLEAP-008A\nbeta0p3_actgelu_ln_neg0\n64\nTrue\n291\n0.805234\n0.811130\n1.000000e-07\n621\nTrue\nruns/20260113_035554__beta0p3_actgelu_ln_neg0....\n\n\n5\n20260113_062550__beta0p3_actnone_neg0\n0.3\nnone\nFalse\nLEAP-008A\nbeta0p3_actnone_neg0\n64\nTrue\n607\n0.809055\n0.811362\n1.000000e-07\n708\nTrue\nruns/20260113_062550__beta0p3_actnone_neg0.html\n\n\n18\n20260114_025352__beta0p1_actn_neg1_batch32\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch32\n32\nTrue\n440\n0.890086\n0.889928\n1.000000e-07\n715\nTrue\nruns/20260114_025352__beta0p1_actn_neg1_batch3...\n\n\n21\n20260114_064430__beta0p1_acto_neg1_batch32\n0.1\no\nTrue\nLEAP-008A\nbeta0p1_acto_neg1_batch32\n32\nTrue\n461\n0.891981\n0.891447\n1.000000e-07\n725\nTrue\nruns/20260114_064430__beta0p1_acto_neg1_batch3...\n\n\n28\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch64\n64\nTrue\n407\n0.919310\n0.919926\n1.000000e-07\n638\nTrue\nruns/20260114_202353__beta0p3_actgelu_ln_neg1_...\n\n\n25\n20260114_163226__beta0p3_actgelu_neg1_batch64\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch64\n64\nTrue\n242\n0.930119\n0.930258\n1.000000e-07\n572\nTrue\nruns/20260114_163226__beta0p3_actgelu_neg1_bat...\n\n\n4\n20260113_050858__beta0p3_actnone_neg1\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1\n64\nTrue\n335\n0.932992\n0.936244\n1.000000e-07\n664\nTrue\nruns/20260113_050858__beta0p3_actnone_neg1.html\n\n\n0\n20260113_003315__beta0p3_actgelu_neg1\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1\n64\nTrue\n235\n0.936598\n0.944827\n1.000000e-07\n565\nTrue\nruns/20260113_003315__beta0p3_actgelu_neg1.html\n\n\n2\n20260113_024957__beta0p3_actgelu_ln_neg1\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1\n64\nTrue\n262\n0.953822\n0.958018\n1.000000e-07\n558\nTrue\nruns/20260113_024957__beta0p3_actgelu_ln_neg1....\n\n\n31\n20260115_001443__beta0p3_actnone_neg1_batch64\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch64\n64\nTrue\n690\n0.984406\n0.988251\n1.000000e-07\n791\nTrue\nruns/20260115_001443__beta0p3_actnone_neg1_bat...\n\n\n35\n20260115_162444__beta0p3_actnone_neg1_batch32_...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop0\n32\nFalse\n4999\n0.986783\n0.984563\n1.000000e-04\n5000\nTrue\nruns/20260115_162444__beta0p3_actnone_neg1_bat...\n\n\n33\n20260115_162224__beta0p3_actgelu_neg1_batch32_...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop0\n32\nFalse\n4982\n0.990649\n0.993936\n1.000000e-04\n5000\nTrue\nruns/20260115_162224__beta0p3_actgelu_neg1_bat...\n\n\n38\n20260116_025510__beta0p3_actnone_neg1_batch32_...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop1\n32\nTrue\n676\n1.048687\n1.050233\n1.000000e-07\n874\nTrue\nruns/20260116_025510__beta0p3_actnone_neg1_bat...\n\n\n37\n20260116_025428__beta0p3_actgelu_neg1_batch32_...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop1\n32\nTrue\n577\n1.054605\n1.057135\n1.000000e-07\n741\nTrue\nruns/20260116_025428__beta0p3_actgelu_neg1_bat...\n\n\n27\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch32\n32\nTrue\n434\n1.126028\n1.129393\n1.000000e-07\n698\nTrue\nruns/20260114_175953__beta0p3_actgelu_ln_neg1_...\n\n\n24\n20260114_144007__beta0p3_actgelu_neg1_batch32\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32\n32\nTrue\n435\n1.158449\n1.160787\n1.000000e-07\n536\nTrue\nruns/20260114_144007__beta0p3_actgelu_neg1_bat...\n\n\n7\n20260113_083520__beta0p7_actgelu_neg0\n0.7\ngelu\nFalse\nLEAP-008A\nbeta0p7_actgelu_neg0\n64\nTrue\n479\n1.159720\n1.154334\n1.000000e-07\n655\nTrue\nruns/20260113_083520__beta0p7_actgelu_neg0.html\n\n\n36\n20260116_025411__beta1_actgelu_neg1_batch1024_...\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\n3597\n1.182464\n1.233793\n1.000000e-04\n5000\nTrue\nruns/20260116_025411__beta1_actgelu_neg1_batch...\n\n\n30\n20260114_215719__beta0p3_actnone_neg1_batch32\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32\n32\nTrue\n563\n1.206506\n1.208327\n1.000000e-07\n664\nTrue\nruns/20260114_215719__beta0p3_actnone_neg1_bat...\n\n\n11\n20260113_130212__beta0p7_actnone_neg0\n0.7\nnone\nFalse\nLEAP-008A\nbeta0p7_actnone_neg0\n64\nTrue\n536\n1.211070\n1.213740\n1.000000e-07\n637\nTrue\nruns/20260113_130212__beta0p7_actnone_neg0.html\n\n\n9\n20260113_111215__beta0p7_actgelu_ln_neg0\n0.7\ngelu_ln\nFalse\nLEAP-008A\nbeta0p7_actgelu_ln_neg0\n64\nTrue\n124\n1.247108\n1.254856\n1.000000e-07\n453\nTrue\nruns/20260113_111215__beta0p7_actgelu_ln_neg0....\n\n\n8\n20260113_095119__beta0p7_actgelu_ln_neg1\n0.7\ngelu_ln\nTrue\nLEAP-008A\nbeta0p7_actgelu_ln_neg1\n64\nTrue\n610\n1.540487\n1.542239\n1.000000e-07\n711\nTrue\nruns/20260113_095119__beta0p7_actgelu_ln_neg1....\n\n\n10\n20260113_120653__beta0p7_actnone_neg1\n0.7\nnone\nTrue\nLEAP-008A\nbeta0p7_actnone_neg1\n64\nTrue\n226\n1.548372\n1.548699\n1.000000e-07\n446\nTrue\nruns/20260113_120653__beta0p7_actnone_neg1.html\n\n\n6\n20260113_074727__beta0p7_actgelu_neg1\n0.7\ngelu\nTrue\nLEAP-008A\nbeta0p7_actgelu_neg1\n64\nTrue\n66\n1.555108\n1.557561\n1.000000e-07\n396\nTrue\nruns/20260113_074727__beta0p7_actgelu_neg1.html\n\n\n13\n20260113_151724__beta1p0_actgelu_neg0\n1.0\ngelu\nFalse\nLEAP-008A\nbeta1p0_actgelu_neg0\n64\nTrue\n398\n1.565140\n1.576421\n1.000000e-07\n563\nTrue\nruns/20260113_151724__beta1p0_actgelu_neg0.html\n\n\n34\n20260115_162427__beta1_actgelu_neg1_batch32_ea...\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch32_early_stop0\n32\nFalse\n4423\n1.627653\n1.671372\n1.000000e-04\n5000\nTrue\nruns/20260115_162427__beta1_actgelu_neg1_batch...\n\n\n15\n20260113_171604__beta1p0_actgelu_ln_neg0\n1.0\ngelu_ln\nFalse\nLEAP-008A\nbeta1p0_actgelu_ln_neg0\n64\nTrue\n367\n1.636017\n1.625977\n1.000000e-07\n468\nTrue\nruns/20260113_171604__beta1p0_actgelu_ln_neg0....\n\n\n17\n20260113_185647__beta1p0_actnone_neg0\n1.0\nnone\nFalse\nLEAP-008A\nbeta1p0_actnone_neg0\n64\nTrue\n341\n1.679287\n1.689843\n1.000000e-07\n442\nTrue\nruns/20260113_185647__beta1p0_actnone_neg0.html\n\n\n12\n20260113_141559__beta1p0_actgelu_neg1\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1p0_actgelu_neg1\n64\nTrue\n352\n1.923519\n1.930183\n1.000000e-07\n517\nTrue\nruns/20260113_141559__beta1p0_actgelu_neg1.html\n\n\n14\n20260113_162324__beta1p0_actgelu_ln_neg1\n1.0\ngelu_ln\nTrue\nLEAP-008A\nbeta1p0_actgelu_ln_neg1\n64\nTrue\n177\n2.042990\n2.054808\n1.000000e-07\n447\nTrue\nruns/20260113_162324__beta1p0_actgelu_ln_neg1....\n\n\n16\n20260113_181025__beta1p0_actnone_neg1\n1.0\nnone\nTrue\nLEAP-008A\nbeta1p0_actnone_neg1\n64\nTrue\n293\n2.321062\n2.327118\n1.000000e-07\n394\nTrue\nruns/20260113_181025__beta1p0_actnone_neg1.html",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-this-report-contains",
+    "href": "index.html#what-this-report-contains",
+    "title": "Overview",
+    "section": "",
+    "text": "A registry table of all runs under ./assets/model_results/\nPer-run pages with configuration, training curves, and key figures\nQuick comparisons across beta / activation / neg_within_group\n\n\n\n\n\n\n\n\n\n\nrun_dir\nbeta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\nbest_epoch\nbest_smooth_loss\nfinal_total_loss\nfinal_lr\nlogged_epoch\nhas_harmony_fig\nlink\n\n\n\n\n20\n20260114_060726__beta0p1_actn_neg1_batch1024\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\n1024\nTrue\n594\n0.330675\n0.330229\n1.000000e-07\n695\nTrue\nruns/20260114_060726__beta0p1_actn_neg1_batch1...\n\n\n19\n20260114_052102__beta0p1_actn_neg1_batch256\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch256\n256\nTrue\n589\n0.413216\n0.413633\n1.000000e-07\n765\nTrue\nruns/20260114_052102__beta0p1_actn_neg1_batch2...\n\n\n39\n20260116_043857__beta0p3_actgelu_neg1_batch102...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\n4897\n0.415383\n0.413797\n1.000000e-04\n5000\nTrue\nruns/20260116_043857__beta0p3_actgelu_neg1_bat...\n\n\n23\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\n1024\nTrue\n570\n0.463908\n0.465853\n1.000000e-07\n735\nTrue\nruns/20260114_140507__beta0p3_actrelu_neg1_bat...\n\n\n40\n20260116_045146__beta0p3_actnone_neg1_batch102...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0\n1024\nFalse\n4504\n0.570228\n0.570570\n1.000000e-04\n5000\nTrue\nruns/20260116_045146__beta0p3_actnone_neg1_bat...\n\n\n42\n20260116_064323__beta0p3_actgelu_neg1_batch102...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop1\n1024\nTrue\n486\n0.595807\n0.599481\n1.000000e-07\n683\nTrue\nruns/20260116_064323__beta0p3_actgelu_neg1_bat...\n\n\n26\n20260114_173924__beta0p3_actgelu_neg1_batch1024\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024\n1024\nTrue\n155\n0.651323\n0.651109\n1.000000e-07\n418\nTrue\nruns/20260114_173924__beta0p3_actgelu_neg1_bat...\n\n\n41\n20260116_064243__beta0p3_actnone_neg1_batch102...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop1\n1024\nTrue\n44\n0.662235\n0.695279\n1.000000e-07\n374\nTrue\nruns/20260116_064243__beta0p3_actnone_neg1_bat...\n\n\n32\n20260115_014705__beta0p3_actnone_neg1_batch1024\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024\n1024\nTrue\n35\n0.667159\n0.687954\n1.000000e-07\n365\nTrue\nruns/20260115_014705__beta0p3_actnone_neg1_bat...\n\n\n29\n20260114_213937__beta0p3_actgelu_ln_neg1_batch...\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch1024\n1024\nTrue\n12\n0.706276\n0.712265\n1.000000e-07\n342\nTrue\nruns/20260114_213937__beta0p3_actgelu_ln_neg1_...\n\n\n22\n20260114_122338__beta0p3_actrelu_neg1_batch64\n0.3\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch64\n64\nTrue\n756\n0.796738\n0.799369\n1.000000e-07\n857\nTrue\nruns/20260114_122338__beta0p3_actrelu_neg1_bat...\n\n\n1\n20260113_014012__beta0p3_actgelu_neg0\n0.3\ngelu\nFalse\nLEAP-008A\nbeta0p3_actgelu_neg0\n64\nTrue\n285\n0.801883\n0.805859\n1.000000e-07\n592\nTrue\nruns/20260113_014012__beta0p3_actgelu_neg0.html\n\n\n3\n20260113_035554__beta0p3_actgelu_ln_neg0\n0.3\ngelu_ln\nFalse\nLEAP-008A\nbeta0p3_actgelu_ln_neg0\n64\nTrue\n291\n0.805234\n0.811130\n1.000000e-07\n621\nTrue\nruns/20260113_035554__beta0p3_actgelu_ln_neg0....\n\n\n5\n20260113_062550__beta0p3_actnone_neg0\n0.3\nnone\nFalse\nLEAP-008A\nbeta0p3_actnone_neg0\n64\nTrue\n607\n0.809055\n0.811362\n1.000000e-07\n708\nTrue\nruns/20260113_062550__beta0p3_actnone_neg0.html\n\n\n18\n20260114_025352__beta0p1_actn_neg1_batch32\n0.1\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch32\n32\nTrue\n440\n0.890086\n0.889928\n1.000000e-07\n715\nTrue\nruns/20260114_025352__beta0p1_actn_neg1_batch3...\n\n\n21\n20260114_064430__beta0p1_acto_neg1_batch32\n0.1\no\nTrue\nLEAP-008A\nbeta0p1_acto_neg1_batch32\n32\nTrue\n461\n0.891981\n0.891447\n1.000000e-07\n725\nTrue\nruns/20260114_064430__beta0p1_acto_neg1_batch3...\n\n\n28\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch64\n64\nTrue\n407\n0.919310\n0.919926\n1.000000e-07\n638\nTrue\nruns/20260114_202353__beta0p3_actgelu_ln_neg1_...\n\n\n25\n20260114_163226__beta0p3_actgelu_neg1_batch64\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch64\n64\nTrue\n242\n0.930119\n0.930258\n1.000000e-07\n572\nTrue\nruns/20260114_163226__beta0p3_actgelu_neg1_bat...\n\n\n4\n20260113_050858__beta0p3_actnone_neg1\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1\n64\nTrue\n335\n0.932992\n0.936244\n1.000000e-07\n664\nTrue\nruns/20260113_050858__beta0p3_actnone_neg1.html\n\n\n0\n20260113_003315__beta0p3_actgelu_neg1\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1\n64\nTrue\n235\n0.936598\n0.944827\n1.000000e-07\n565\nTrue\nruns/20260113_003315__beta0p3_actgelu_neg1.html\n\n\n2\n20260113_024957__beta0p3_actgelu_ln_neg1\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1\n64\nTrue\n262\n0.953822\n0.958018\n1.000000e-07\n558\nTrue\nruns/20260113_024957__beta0p3_actgelu_ln_neg1....\n\n\n31\n20260115_001443__beta0p3_actnone_neg1_batch64\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch64\n64\nTrue\n690\n0.984406\n0.988251\n1.000000e-07\n791\nTrue\nruns/20260115_001443__beta0p3_actnone_neg1_bat...\n\n\n35\n20260115_162444__beta0p3_actnone_neg1_batch32_...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop0\n32\nFalse\n4999\n0.986783\n0.984563\n1.000000e-04\n5000\nTrue\nruns/20260115_162444__beta0p3_actnone_neg1_bat...\n\n\n33\n20260115_162224__beta0p3_actgelu_neg1_batch32_...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop0\n32\nFalse\n4982\n0.990649\n0.993936\n1.000000e-04\n5000\nTrue\nruns/20260115_162224__beta0p3_actgelu_neg1_bat...\n\n\n38\n20260116_025510__beta0p3_actnone_neg1_batch32_...\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop1\n32\nTrue\n676\n1.048687\n1.050233\n1.000000e-07\n874\nTrue\nruns/20260116_025510__beta0p3_actnone_neg1_bat...\n\n\n37\n20260116_025428__beta0p3_actgelu_neg1_batch32_...\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop1\n32\nTrue\n577\n1.054605\n1.057135\n1.000000e-07\n741\nTrue\nruns/20260116_025428__beta0p3_actgelu_neg1_bat...\n\n\n27\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch32\n32\nTrue\n434\n1.126028\n1.129393\n1.000000e-07\n698\nTrue\nruns/20260114_175953__beta0p3_actgelu_ln_neg1_...\n\n\n24\n20260114_144007__beta0p3_actgelu_neg1_batch32\n0.3\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32\n32\nTrue\n435\n1.158449\n1.160787\n1.000000e-07\n536\nTrue\nruns/20260114_144007__beta0p3_actgelu_neg1_bat...\n\n\n7\n20260113_083520__beta0p7_actgelu_neg0\n0.7\ngelu\nFalse\nLEAP-008A\nbeta0p7_actgelu_neg0\n64\nTrue\n479\n1.159720\n1.154334\n1.000000e-07\n655\nTrue\nruns/20260113_083520__beta0p7_actgelu_neg0.html\n\n\n36\n20260116_025411__beta1_actgelu_neg1_batch1024_...\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch1024_early_stop0\n1024\nFalse\n3597\n1.182464\n1.233793\n1.000000e-04\n5000\nTrue\nruns/20260116_025411__beta1_actgelu_neg1_batch...\n\n\n30\n20260114_215719__beta0p3_actnone_neg1_batch32\n0.3\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32\n32\nTrue\n563\n1.206506\n1.208327\n1.000000e-07\n664\nTrue\nruns/20260114_215719__beta0p3_actnone_neg1_bat...\n\n\n11\n20260113_130212__beta0p7_actnone_neg0\n0.7\nnone\nFalse\nLEAP-008A\nbeta0p7_actnone_neg0\n64\nTrue\n536\n1.211070\n1.213740\n1.000000e-07\n637\nTrue\nruns/20260113_130212__beta0p7_actnone_neg0.html\n\n\n9\n20260113_111215__beta0p7_actgelu_ln_neg0\n0.7\ngelu_ln\nFalse\nLEAP-008A\nbeta0p7_actgelu_ln_neg0\n64\nTrue\n124\n1.247108\n1.254856\n1.000000e-07\n453\nTrue\nruns/20260113_111215__beta0p7_actgelu_ln_neg0....\n\n\n8\n20260113_095119__beta0p7_actgelu_ln_neg1\n0.7\ngelu_ln\nTrue\nLEAP-008A\nbeta0p7_actgelu_ln_neg1\n64\nTrue\n610\n1.540487\n1.542239\n1.000000e-07\n711\nTrue\nruns/20260113_095119__beta0p7_actgelu_ln_neg1....\n\n\n10\n20260113_120653__beta0p7_actnone_neg1\n0.7\nnone\nTrue\nLEAP-008A\nbeta0p7_actnone_neg1\n64\nTrue\n226\n1.548372\n1.548699\n1.000000e-07\n446\nTrue\nruns/20260113_120653__beta0p7_actnone_neg1.html\n\n\n6\n20260113_074727__beta0p7_actgelu_neg1\n0.7\ngelu\nTrue\nLEAP-008A\nbeta0p7_actgelu_neg1\n64\nTrue\n66\n1.555108\n1.557561\n1.000000e-07\n396\nTrue\nruns/20260113_074727__beta0p7_actgelu_neg1.html\n\n\n13\n20260113_151724__beta1p0_actgelu_neg0\n1.0\ngelu\nFalse\nLEAP-008A\nbeta1p0_actgelu_neg0\n64\nTrue\n398\n1.565140\n1.576421\n1.000000e-07\n563\nTrue\nruns/20260113_151724__beta1p0_actgelu_neg0.html\n\n\n34\n20260115_162427__beta1_actgelu_neg1_batch32_ea...\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1_actgelu_neg1_batch32_early_stop0\n32\nFalse\n4423\n1.627653\n1.671372\n1.000000e-04\n5000\nTrue\nruns/20260115_162427__beta1_actgelu_neg1_batch...\n\n\n15\n20260113_171604__beta1p0_actgelu_ln_neg0\n1.0\ngelu_ln\nFalse\nLEAP-008A\nbeta1p0_actgelu_ln_neg0\n64\nTrue\n367\n1.636017\n1.625977\n1.000000e-07\n468\nTrue\nruns/20260113_171604__beta1p0_actgelu_ln_neg0....\n\n\n17\n20260113_185647__beta1p0_actnone_neg0\n1.0\nnone\nFalse\nLEAP-008A\nbeta1p0_actnone_neg0\n64\nTrue\n341\n1.679287\n1.689843\n1.000000e-07\n442\nTrue\nruns/20260113_185647__beta1p0_actnone_neg0.html\n\n\n12\n20260113_141559__beta1p0_actgelu_neg1\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1p0_actgelu_neg1\n64\nTrue\n352\n1.923519\n1.930183\n1.000000e-07\n517\nTrue\nruns/20260113_141559__beta1p0_actgelu_neg1.html\n\n\n14\n20260113_162324__beta1p0_actgelu_ln_neg1\n1.0\ngelu_ln\nTrue\nLEAP-008A\nbeta1p0_actgelu_ln_neg1\n64\nTrue\n177\n2.042990\n2.054808\n1.000000e-07\n447\nTrue\nruns/20260113_162324__beta1p0_actgelu_ln_neg1....\n\n\n16\n20260113_181025__beta1p0_actnone_neg1\n1.0\nnone\nTrue\nLEAP-008A\nbeta1p0_actnone_neg1\n64\nTrue\n293\n2.321062\n2.327118\n1.000000e-07\n394\nTrue\nruns/20260113_181025__beta1p0_actnone_neg1.html",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#quick-gallery-harmony-comparison",
+    "href": "index.html#quick-gallery-harmony-comparison",
+    "title": "Overview",
+    "section": "2 Quick gallery (Harmony comparison)",
+    "text": "2 Quick gallery (Harmony comparison)\n\n\n20260113_003315__beta0p3_actgelu_neg1\n\n20260113_014012__beta0p3_actgelu_neg0\n\n20260113_024957__beta0p3_actgelu_ln_neg1\n\n20260113_035554__beta0p3_actgelu_ln_neg0\n\n20260113_050858__beta0p3_actnone_neg1\n\n20260113_062550__beta0p3_actnone_neg0\n\n20260113_074727__beta0p7_actgelu_neg1\n\n20260113_083520__beta0p7_actgelu_neg0\n\n20260113_095119__beta0p7_actgelu_ln_neg1\n\n20260113_111215__beta0p7_actgelu_ln_neg0\n\n20260113_120653__beta0p7_actnone_neg1\n\n20260113_130212__beta0p7_actnone_neg0\n\n20260113_141559__beta1p0_actgelu_neg1\n\n20260113_151724__beta1p0_actgelu_neg0\n\n20260113_162324__beta1p0_actgelu_ln_neg1\n\n20260113_171604__beta1p0_actgelu_ln_neg0\n\n20260113_181025__beta1p0_actnone_neg1\n\n20260113_185647__beta1p0_actnone_neg0\n\n20260114_025352__beta0p1_actn_neg1_batch32\n\n20260114_052102__beta0p1_actn_neg1_batch256\n\n20260114_060726__beta0p1_actn_neg1_batch1024\n\n20260114_064430__beta0p1_acto_neg1_batch32\n\n20260114_122338__beta0p3_actrelu_neg1_batch64\n\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n\n20260114_144007__beta0p3_actgelu_neg1_batch32\n\n20260114_163226__beta0p3_actgelu_neg1_batch64\n\n20260114_173924__beta0p3_actgelu_neg1_batch1024\n\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\n\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\n\n20260114_215719__beta0p3_actnone_neg1_batch32\n\n20260115_001443__beta0p3_actnone_neg1_batch64\n\n20260115_014705__beta0p3_actnone_neg1_batch1024\n\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\n\n20260115_162427__beta1_actgelu_neg1_batch32_early_stop0\n\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\n\n20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0\n\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\n\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\n\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\n\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\n\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "runs/20260113_181025__beta1p0_actnone_neg1.html",
+    "href": "runs/20260113_181025__beta1p0_actnone_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\nnone\nTrue\nLEAP-008A\nbeta1p0_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_181025__beta1p0_actnone_neg1.html#configuration",
+    "href": "runs/20260113_181025__beta1p0_actnone_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\nnone\nTrue\nLEAP-008A\nbeta1p0_actnone_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_181025__beta1p0_actnone_neg1.html#training-curves",
+    "href": "runs/20260113_181025__beta1p0_actnone_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.459415\n0.807587\n0.017317\n1.634512\n0.773766\n1.000000e-04\n2.459415\n\n\n1\n1\n2.333434\n0.764411\n0.016068\n1.552955\n0.768416\n1.000000e-04\n2.396425\n\n\n2\n2\n2.421022\n0.752288\n0.016404\n1.652330\n0.734446\n1.000000e-04\n2.404624\n\n\n3\n3\n2.439123\n0.737134\n0.016590\n1.685399\n0.725034\n1.000000e-04\n2.413249\n\n\n4\n4\n2.303077\n0.721998\n0.015874\n1.565204\n0.733084\n1.000000e-04\n2.391214\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n389\n389\n2.321465\n0.640980\n0.015632\n1.664854\n1.397770\n1.000000e-07\n2.325204\n\n\n390\n390\n2.324438\n0.639987\n0.015632\n1.668819\n1.492773\n1.000000e-07\n2.324500\n\n\n391\n391\n2.319448\n0.640443\n0.015627\n1.663378\n1.431823\n1.000000e-07\n2.323607\n\n\n392\n392\n2.320587\n0.640937\n0.015641\n1.664009\n1.429768\n1.000000e-07\n2.323265\n\n\n393\n393\n2.327118\n0.640855\n0.015626\n1.670637\n1.441516\n1.000000e-07\n2.324048\n\n\n\n\n394 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_181025__beta1p0_actnone_neg1.html#curves",
+    "href": "runs/20260113_181025__beta1p0_actnone_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_181025__beta1p0_actnone_neg1.html#key-figures",
+    "href": "runs/20260113_181025__beta1p0_actnone_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_181025__beta1p0_actnone_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_181025__beta1p0_actnone_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_181025__beta1p0_actnone_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_181025__beta1p0_actnone_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_181025__beta1p0_actnone_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html",
+    "href": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nFalse\nLEAP-008A\nbeta0p3_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#configuration",
+    "href": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nFalse\nLEAP-008A\nbeta0p3_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#training-curves",
+    "href": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.302446\n0.796870\n0.017290\n0.488287\n0.220401\n1.000000e-04\n1.302446\n\n\n1\n1\n1.179061\n0.720387\n0.012989\n0.445686\n0.180228\n1.000000e-04\n1.240754\n\n\n2\n2\n1.139376\n0.699420\n0.011282\n0.428673\n0.235579\n1.000000e-04\n1.206961\n\n\n3\n3\n1.089382\n0.688171\n0.010686\n0.390525\n0.247200\n1.000000e-04\n1.177566\n\n\n4\n4\n1.069502\n0.682222\n0.010413\n0.376868\n0.260975\n1.000000e-04\n1.155953\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n616\n616\n0.809904\n0.565785\n0.005388\n0.238730\n0.528577\n1.000000e-07\n0.810411\n\n\n617\n617\n0.810818\n0.565719\n0.005402\n0.239697\n0.525423\n1.000000e-07\n0.810599\n\n\n618\n618\n0.815375\n0.565433\n0.005391\n0.244551\n0.526588\n1.000000e-07\n0.811280\n\n\n619\n619\n0.809562\n0.565726\n0.005381\n0.238455\n0.526410\n1.000000e-07\n0.810979\n\n\n620\n620\n0.811130\n0.565852\n0.005386\n0.239891\n0.529653\n1.000000e-07\n0.811166\n\n\n\n\n621 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#curves",
+    "href": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#key-figures",
+    "href": "runs/20260113_035554__beta0p3_actgelu_ln_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_035554__beta0p3_actgelu_ln_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_035554__beta0p3_actgelu_ln_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_035554__beta0p3_actgelu_ln_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_035554__beta0p3_actgelu_ln_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_035554__beta0p3_actgelu_ln_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html",
+    "href": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#configuration",
+    "href": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#training-curves",
+    "href": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.598681\n1.098896\n0.016871\n0.482914\n0.318292\n1.000000e-04\n1.598681\n\n\n1\n1\n1.486853\n0.994860\n0.015988\n0.476005\n0.305657\n1.000000e-04\n1.542767\n\n\n2\n2\n1.428172\n0.967707\n0.014169\n0.446296\n0.339553\n1.000000e-04\n1.504569\n\n\n3\n3\n1.412171\n0.954784\n0.014102\n0.443285\n0.343044\n1.000000e-04\n1.481470\n\n\n4\n4\n1.392298\n0.946066\n0.014058\n0.432175\n0.344273\n1.000000e-04\n1.463635\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n531\n531\n1.159496\n0.799297\n0.008618\n0.351581\n0.982601\n1.000000e-07\n1.159958\n\n\n532\n532\n1.159291\n0.799005\n0.008606\n0.351680\n0.990506\n1.000000e-07\n1.159970\n\n\n533\n533\n1.162550\n0.799086\n0.008614\n0.354850\n0.989038\n1.000000e-07\n1.160358\n\n\n534\n534\n1.159628\n0.798840\n0.008620\n0.352168\n0.987008\n1.000000e-07\n1.160189\n\n\n535\n535\n1.160787\n0.799279\n0.008619\n0.352889\n0.983640\n1.000000e-07\n1.160176\n\n\n\n\n536 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#curves",
+    "href": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#key-figures",
+    "href": "runs/20260114_144007__beta0p3_actgelu_neg1_batch32.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_144007__beta0p3_actgelu_neg1_batch32/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_144007__beta0p3_actgelu_neg1_batch32/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_144007__beta0p3_actgelu_neg1_batch32/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_144007__beta0p3_actgelu_neg1_batch32/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_144007__beta0p3_actgelu_neg1_batch32/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_074727__beta0p7_actgelu_neg1.html",
+    "href": "runs/20260113_074727__beta0p7_actgelu_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu\nTrue\nLEAP-008A\nbeta0p7_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_074727__beta0p7_actgelu_neg1.html#configuration",
+    "href": "runs/20260113_074727__beta0p7_actgelu_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu\nTrue\nLEAP-008A\nbeta0p7_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_074727__beta0p7_actgelu_neg1.html#training-curves",
+    "href": "runs/20260113_074727__beta0p7_actgelu_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.969316\n0.805616\n0.017408\n1.146293\n0.536289\n1.000000e-04\n1.969316\n\n\n1\n1\n1.867992\n0.762503\n0.016151\n1.089338\n0.528456\n1.000000e-04\n1.918654\n\n\n2\n2\n1.909977\n0.745012\n0.016606\n1.148360\n0.517760\n1.000000e-04\n1.915762\n\n\n3\n3\n1.910907\n0.719741\n0.017109\n1.174057\n0.528362\n1.000000e-04\n1.914548\n\n\n4\n4\n1.876082\n0.705816\n0.016945\n1.153320\n0.544869\n1.000000e-04\n1.906855\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n391\n391\n1.563438\n0.620098\n0.010092\n0.933249\n1.195494\n1.000000e-07\n1.564302\n\n\n392\n392\n1.563595\n0.620523\n0.010071\n0.933000\n1.185379\n1.000000e-07\n1.564260\n\n\n393\n393\n1.569125\n0.619722\n0.010096\n0.939307\n1.154837\n1.000000e-07\n1.564715\n\n\n394\n394\n1.562515\n0.620267\n0.010082\n0.932166\n1.207933\n1.000000e-07\n1.564223\n\n\n395\n395\n1.557561\n0.620214\n0.010064\n0.927283\n1.178373\n1.000000e-07\n1.563936\n\n\n\n\n396 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_074727__beta0p7_actgelu_neg1.html#curves",
+    "href": "runs/20260113_074727__beta0p7_actgelu_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_074727__beta0p7_actgelu_neg1.html#key-figures",
+    "href": "runs/20260113_074727__beta0p7_actgelu_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_074727__beta0p7_actgelu_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_074727__beta0p7_actgelu_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_074727__beta0p7_actgelu_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_074727__beta0p7_actgelu_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_074727__beta0p7_actgelu_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html",
+    "href": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n64\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#configuration",
+    "href": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\n64\nLEAP-008A\nbeta0p3_actgelu_ln_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#training-curves",
+    "href": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.314584\n0.804796\n0.017170\n0.492619\n0.236325\n1.000000e-04\n1.314584\n\n\n1\n1\n1.236214\n0.750837\n0.016118\n0.469260\n0.225140\n1.000000e-04\n1.275399\n\n\n2\n2\n1.226963\n0.712719\n0.016205\n0.498040\n0.210417\n1.000000e-04\n1.259254\n\n\n3\n3\n1.187243\n0.700356\n0.015245\n0.471642\n0.212855\n1.000000e-04\n1.241251\n\n\n4\n4\n1.152120\n0.690809\n0.013660\n0.447651\n0.243915\n1.000000e-04\n1.223425\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n633\n633\n0.922739\n0.571492\n0.008690\n0.342557\n0.353211\n1.000000e-07\n0.921435\n\n\n634\n634\n0.920418\n0.571252\n0.008674\n0.340491\n0.359954\n1.000000e-07\n0.921164\n\n\n635\n635\n0.921638\n0.571466\n0.008706\n0.341465\n0.353188\n1.000000e-07\n0.921245\n\n\n636\n636\n0.919450\n0.570940\n0.008700\n0.339810\n0.352004\n1.000000e-07\n0.921063\n\n\n637\n637\n0.919926\n0.571276\n0.008684\n0.339966\n0.350056\n1.000000e-07\n0.920761\n\n\n\n\n638 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#curves",
+    "href": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#key-figures",
+    "href": "runs/20260114_202353__beta0p3_actgelu_ln_neg1_batch64.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_202353__beta0p3_actgelu_ln_neg1_batch64/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_202353__beta0p3_actgelu_ln_neg1_batch64/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_202353__beta0p3_actgelu_ln_neg1_batch64/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_202353__beta0p3_actgelu_ln_neg1_batch64/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_202353__beta0p3_actgelu_ln_neg1_batch64/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html",
+    "href": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\no\nTrue\n32\nLEAP-008A\nbeta0p1_acto_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#configuration",
+    "href": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.1\no\nTrue\n32\nLEAP-008A\nbeta0p1_acto_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#training-curves",
+    "href": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.251589\n1.068649\n0.016797\n0.166143\n0.106628\n1.000000e-04\n1.251589\n\n\n1\n1\n1.124104\n0.964039\n0.015134\n0.144931\n0.106707\n1.000000e-04\n1.187847\n\n\n2\n2\n1.088473\n0.938324\n0.013875\n0.136274\n0.110322\n1.000000e-04\n1.154722\n\n\n3\n3\n1.068820\n0.920414\n0.013343\n0.135063\n0.114190\n1.000000e-04\n1.133247\n\n\n4\n4\n1.055958\n0.907026\n0.012985\n0.135946\n0.117563\n1.000000e-04\n1.117789\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n720\n720\n0.892566\n0.772248\n0.007606\n0.112712\n0.590582\n1.000000e-07\n0.892299\n\n\n721\n721\n0.891563\n0.771906\n0.007597\n0.112060\n0.590218\n1.000000e-07\n0.892196\n\n\n722\n722\n0.892374\n0.771974\n0.007590\n0.112810\n0.589138\n1.000000e-07\n0.892270\n\n\n723\n723\n0.891919\n0.771971\n0.007603\n0.112345\n0.591458\n1.000000e-07\n0.892138\n\n\n724\n724\n0.891447\n0.771995\n0.007605\n0.111847\n0.586505\n1.000000e-07\n0.892061\n\n\n\n\n725 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#curves",
+    "href": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#key-figures",
+    "href": "runs/20260114_064430__beta0p1_acto_neg1_batch32.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_064430__beta0p1_acto_neg1_batch32/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_064430__beta0p1_acto_neg1_batch32/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_064430__beta0p1_acto_neg1_batch32/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_064430__beta0p1_acto_neg1_batch32/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_064430__beta0p1_acto_neg1_batch32/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html",
+    "href": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#configuration",
+    "href": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n1024\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#training-curves",
+    "href": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.844469\n0.267777\n0.020598\n0.556094\n0.071452\n1.000000e-04\n0.844469\n\n\n1\n1\n0.786925\n0.254325\n0.018514\n0.514086\n0.081998\n1.000000e-04\n0.815697\n\n\n2\n2\n0.741421\n0.237501\n0.017075\n0.486846\n0.073756\n1.000000e-04\n0.790939\n\n\n3\n3\n0.717905\n0.226106\n0.016515\n0.475284\n0.068889\n1.000000e-04\n0.772680\n\n\n4\n4\n0.705231\n0.219561\n0.016248\n0.469422\n0.066900\n1.000000e-04\n0.759190\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n413\n413\n0.652939\n0.193553\n0.013279\n0.446107\n0.084568\n1.000000e-07\n0.653920\n\n\n414\n414\n0.653447\n0.193981\n0.013229\n0.446237\n0.081291\n1.000000e-07\n0.653898\n\n\n415\n415\n0.653404\n0.194084\n0.013211\n0.446109\n0.083617\n1.000000e-07\n0.654134\n\n\n416\n416\n0.651279\n0.193448\n0.013232\n0.444598\n0.083023\n1.000000e-07\n0.653696\n\n\n417\n417\n0.651109\n0.193472\n0.013282\n0.444354\n0.085026\n1.000000e-07\n0.653596\n\n\n\n\n418 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#curves",
+    "href": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#key-figures",
+    "href": "runs/20260114_173924__beta0p3_actgelu_neg1_batch1024.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_173924__beta0p3_actgelu_neg1_batch1024/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_173924__beta0p3_actgelu_neg1_batch1024/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_173924__beta0p3_actgelu_neg1_batch1024/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_173924__beta0p3_actgelu_neg1_batch1024/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_173924__beta0p3_actgelu_neg1_batch1024/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html",
+    "href": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#configuration",
+    "href": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch32_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#training-curves",
+    "href": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.651455\n1.106365\n0.019429\n0.525661\n0.282470\n1.000000e-04\n1.651455\n\n\n1\n1\n1.527824\n1.011522\n0.019610\n0.496692\n0.238189\n1.000000e-04\n1.589639\n\n\n2\n2\n1.485655\n0.991299\n0.017282\n0.477074\n0.268645\n1.000000e-04\n1.554978\n\n\n3\n3\n1.485897\n0.984253\n0.016716\n0.484928\n0.253208\n1.000000e-04\n1.537708\n\n\n4\n4\n1.477849\n0.976155\n0.016591\n0.485103\n0.250751\n1.000000e-04\n1.525736\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n869\n869\n1.052973\n0.761774\n0.013306\n0.277892\n0.186186\n1.000000e-07\n1.051258\n\n\n870\n870\n1.048443\n0.761265\n0.013299\n0.273879\n0.183756\n1.000000e-07\n1.051113\n\n\n871\n871\n1.052632\n0.761783\n0.013305\n0.277544\n0.184187\n1.000000e-07\n1.051299\n\n\n872\n872\n1.049676\n0.762659\n0.013307\n0.273711\n0.186042\n1.000000e-07\n1.051301\n\n\n873\n873\n1.050233\n0.761492\n0.013305\n0.275436\n0.185310\n1.000000e-07\n1.050959\n\n\n\n\n874 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#curves",
+    "href": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#key-figures",
+    "href": "runs/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_062550__beta0p3_actnone_neg0.html",
+    "href": "runs/20260113_062550__beta0p3_actnone_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\nnone\nFalse\nLEAP-008A\nbeta0p3_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_062550__beta0p3_actnone_neg0.html#configuration",
+    "href": "runs/20260113_062550__beta0p3_actnone_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\nnone\nFalse\nLEAP-008A\nbeta0p3_actnone_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_062550__beta0p3_actnone_neg0.html#training-curves",
+    "href": "runs/20260113_062550__beta0p3_actnone_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.299928\n0.796458\n0.017328\n0.486142\n0.219032\n1.000000e-04\n1.299928\n\n\n1\n1\n1.173251\n0.720455\n0.012332\n0.440464\n0.184807\n1.000000e-04\n1.236590\n\n\n2\n2\n1.147803\n0.701530\n0.011090\n0.435183\n0.239710\n1.000000e-04\n1.206994\n\n\n3\n3\n1.109611\n0.692084\n0.010543\n0.406984\n0.251459\n1.000000e-04\n1.182648\n\n\n4\n4\n1.087537\n0.685218\n0.010348\n0.391972\n0.261723\n1.000000e-04\n1.163626\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n703\n703\n0.813659\n0.567312\n0.005465\n0.240881\n0.522391\n1.000000e-07\n0.810825\n\n\n704\n704\n0.812388\n0.567863\n0.005485\n0.239041\n0.527237\n1.000000e-07\n0.810924\n\n\n705\n705\n0.809275\n0.567362\n0.005473\n0.236440\n0.523937\n1.000000e-07\n0.811015\n\n\n706\n706\n0.810323\n0.567376\n0.005478\n0.237469\n0.519689\n1.000000e-07\n0.811225\n\n\n707\n707\n0.811362\n0.567535\n0.005481\n0.238345\n0.512999\n1.000000e-07\n0.811434\n\n\n\n\n708 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_062550__beta0p3_actnone_neg0.html#curves",
+    "href": "runs/20260113_062550__beta0p3_actnone_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_062550__beta0p3_actnone_neg0.html#key-figures",
+    "href": "runs/20260113_062550__beta0p3_actnone_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_062550__beta0p3_actnone_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_062550__beta0p3_actnone_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_062550__beta0p3_actnone_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_062550__beta0p3_actnone_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_062550__beta0p3_actnone_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html",
+    "href": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nrelu\nTrue\n64\nLEAP-008A\nbeta0p3_actrelu_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#configuration",
+    "href": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nrelu\nTrue\n64\nLEAP-008A\nbeta0p3_actrelu_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#training-curves",
+    "href": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.315391\n0.804731\n0.016721\n0.493939\n0.269685\n1.000000e-04\n1.315391\n\n\n1\n1\n1.241583\n0.758368\n0.016090\n0.467125\n0.286250\n1.000000e-04\n1.278487\n\n\n2\n2\n1.197361\n0.718147\n0.015704\n0.463511\n0.265880\n1.000000e-04\n1.251445\n\n\n3\n3\n1.141700\n0.698825\n0.014100\n0.428775\n0.204266\n1.000000e-04\n1.224009\n\n\n4\n4\n1.097184\n0.692933\n0.011768\n0.392484\n0.159094\n1.000000e-04\n1.198644\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n852\n852\n0.795529\n0.558123\n0.005291\n0.232115\n0.187269\n1.000000e-07\n0.798406\n\n\n853\n853\n0.796056\n0.558408\n0.005304\n0.232344\n0.188391\n1.000000e-07\n0.798227\n\n\n854\n854\n0.798765\n0.558755\n0.005291\n0.234719\n0.195571\n1.000000e-07\n0.798469\n\n\n855\n855\n0.796899\n0.558329\n0.005307\n0.233263\n0.190552\n1.000000e-07\n0.798371\n\n\n856\n856\n0.799369\n0.558435\n0.005305\n0.235628\n0.189886\n1.000000e-07\n0.798371\n\n\n\n\n857 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#curves",
+    "href": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#key-figures",
+    "href": "runs/20260114_122338__beta0p3_actrelu_neg1_batch64.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_122338__beta0p3_actrelu_neg1_batch64/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_122338__beta0p3_actrelu_neg1_batch64/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_122338__beta0p3_actrelu_neg1_batch64/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_122338__beta0p3_actrelu_neg1_batch64/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_122338__beta0p3_actrelu_neg1_batch64/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html",
+    "href": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#configuration",
+    "href": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\ngelu\nTrue\n32\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch32_early_stop1"
+  },
+  {
+    "objectID": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#training-curves",
+    "href": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.652585\n1.071382\n0.076809\n0.504394\n0.361124\n1.000000e-04\n1.652585\n\n\n1\n1\n1.479784\n0.990817\n0.054783\n0.434183\n0.371181\n1.000000e-04\n1.566184\n\n\n2\n2\n1.437758\n0.975702\n0.059262\n0.402794\n0.408249\n1.000000e-04\n1.523376\n\n\n3\n3\n1.439166\n0.958838\n0.060110\n0.420217\n0.458821\n1.000000e-04\n1.502323\n\n\n4\n4\n1.425770\n0.934753\n0.058425\n0.432592\n0.469752\n1.000000e-04\n1.487013\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n736\n736\n1.059039\n0.749671\n0.023467\n0.285901\n2.273268\n1.000000e-07\n1.058008\n\n\n737\n737\n1.060007\n0.749572\n0.023427\n0.287008\n2.288721\n1.000000e-07\n1.058632\n\n\n738\n738\n1.059297\n0.750459\n0.023453\n0.285385\n2.258695\n1.000000e-07\n1.058526\n\n\n739\n739\n1.057821\n0.750039\n0.023374\n0.284407\n2.280773\n1.000000e-07\n1.058473\n\n\n740\n740\n1.057135\n0.750697\n0.023422\n0.283015\n2.262125\n1.000000e-07\n1.057843\n\n\n\n\n741 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#curves",
+    "href": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#key-figures",
+    "href": "runs/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html",
+    "href": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#configuration",
+    "href": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.3\ngelu_ln\nTrue\nLEAP-008A\nbeta0p3_actgelu_ln_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#training-curves",
+    "href": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.313421\n0.804852\n0.017220\n0.491349\n0.226871\n1.000000e-04\n1.313421\n\n\n1\n1\n1.239007\n0.747441\n0.016330\n0.475235\n0.214085\n1.000000e-04\n1.276214\n\n\n2\n2\n1.228821\n0.711113\n0.016899\n0.500809\n0.215931\n1.000000e-04\n1.260416\n\n\n3\n3\n1.163227\n0.698860\n0.015146\n0.449221\n0.245610\n1.000000e-04\n1.236119\n\n\n4\n4\n1.162065\n0.691269\n0.015039\n0.455757\n0.264052\n1.000000e-04\n1.221308\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n553\n553\n0.956753\n0.577452\n0.008825\n0.370476\n0.640955\n1.000000e-07\n0.955474\n\n\n554\n554\n0.954546\n0.577819\n0.008825\n0.367902\n0.640081\n1.000000e-07\n0.955659\n\n\n555\n555\n0.958121\n0.578002\n0.008836\n0.371282\n0.648332\n1.000000e-07\n0.956000\n\n\n556\n556\n0.953620\n0.578158\n0.008847\n0.366615\n0.644997\n1.000000e-07\n0.955642\n\n\n557\n557\n0.958018\n0.577978\n0.008826\n0.371214\n0.635009\n1.000000e-07\n0.955924\n\n\n\n\n558 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#curves",
+    "href": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#key-figures",
+    "href": "runs/20260113_024957__beta0p3_actgelu_ln_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_024957__beta0p3_actgelu_ln_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_024957__beta0p3_actgelu_ln_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_024957__beta0p3_actgelu_ln_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_024957__beta0p3_actgelu_ln_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_024957__beta0p3_actgelu_ln_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html",
+    "href": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nrelu\nTrue\n1024\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#configuration",
+    "href": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nrelu\nTrue\n1024\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#training-curves",
+    "href": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.851358\n0.266565\n0.017771\n0.567023\n0.063779\n1.000000e-04\n0.851358\n\n\n1\n1\n0.790908\n0.251843\n0.017096\n0.521969\n0.089951\n1.000000e-04\n0.821133\n\n\n2\n2\n0.740864\n0.234672\n0.017197\n0.488994\n0.091036\n1.000000e-04\n0.794377\n\n\n3\n3\n0.717907\n0.223728\n0.016750\n0.477429\n0.088146\n1.000000e-04\n0.775259\n\n\n4\n4\n0.706565\n0.218001\n0.016471\n0.472093\n0.084832\n1.000000e-04\n0.761520\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n730\n730\n0.461797\n0.181135\n0.006559\n0.274103\n0.098683\n1.000000e-07\n0.464160\n\n\n731\n731\n0.463561\n0.180789\n0.006568\n0.276203\n0.095795\n1.000000e-07\n0.463938\n\n\n732\n732\n0.466049\n0.181022\n0.006541\n0.278486\n0.130543\n1.000000e-07\n0.463929\n\n\n733\n733\n0.466749\n0.181854\n0.006568\n0.278327\n0.097771\n1.000000e-07\n0.464217\n\n\n734\n734\n0.465853\n0.181734\n0.006544\n0.277574\n0.128786\n1.000000e-07\n0.464515\n\n\n\n\n735 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#curves",
+    "href": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#key-figures",
+    "href": "runs/20260114_140507__beta0p3_actrelu_neg1_batch1024.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_140507__beta0p3_actrelu_neg1_batch1024/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_140507__beta0p3_actrelu_neg1_batch1024/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_140507__beta0p3_actrelu_neg1_batch1024/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_140507__beta0p3_actrelu_neg1_batch1024/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_140507__beta0p3_actrelu_neg1_batch1024/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html",
+    "href": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n64\nLEAP-008A\nbeta0p3_actgelu_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#configuration",
+    "href": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\ngelu\nTrue\n64\nLEAP-008A\nbeta0p3_actgelu_neg1_batch64\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#training-curves",
+    "href": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.313470\n0.804269\n0.017242\n0.491959\n0.227411\n1.000000e-04\n1.313470\n\n\n1\n1\n1.239970\n0.751291\n0.016284\n0.472395\n0.217609\n1.000000e-04\n1.276720\n\n\n2\n2\n1.227527\n0.711422\n0.016812\n0.499293\n0.216822\n1.000000e-04\n1.260322\n\n\n3\n3\n1.161503\n0.697844\n0.015093\n0.448566\n0.244677\n1.000000e-04\n1.235617\n\n\n4\n4\n1.151897\n0.689104\n0.014612\n0.448181\n0.254266\n1.000000e-04\n1.218873\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n567\n567\n0.933912\n0.574178\n0.008517\n0.351217\n0.621321\n1.000000e-07\n0.932885\n\n\n568\n568\n0.930506\n0.574243\n0.008499\n0.347765\n0.623456\n1.000000e-07\n0.932674\n\n\n569\n569\n0.931850\n0.574530\n0.008526\n0.348794\n0.624861\n1.000000e-07\n0.932513\n\n\n570\n570\n0.932214\n0.574676\n0.008492\n0.349046\n0.632658\n1.000000e-07\n0.931987\n\n\n571\n571\n0.930258\n0.574198\n0.008507\n0.347554\n0.625509\n1.000000e-07\n0.931946\n\n\n\n\n572 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#curves",
+    "href": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#key-figures",
+    "href": "runs/20260114_163226__beta0p3_actgelu_neg1_batch64.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_163226__beta0p3_actgelu_neg1_batch64/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_163226__beta0p3_actgelu_neg1_batch64/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_163226__beta0p3_actgelu_neg1_batch64/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_163226__beta0p3_actgelu_neg1_batch64/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_163226__beta0p3_actgelu_neg1_batch64/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html",
+    "href": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu_ln\nFalse\nLEAP-008A\nbeta0p7_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#configuration",
+    "href": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu_ln\nFalse\nLEAP-008A\nbeta0p7_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#training-curves",
+    "href": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.963421\n0.800746\n0.017441\n1.145234\n0.521613\n1.000000e-04\n1.963421\n\n\n1\n1\n1.824119\n0.734439\n0.014717\n1.074963\n0.375638\n1.000000e-04\n1.893770\n\n\n2\n2\n1.755082\n0.713082\n0.011721\n1.030278\n0.526089\n1.000000e-04\n1.847541\n\n\n3\n3\n1.677025\n0.707414\n0.010764\n0.958847\n0.574192\n1.000000e-04\n1.804912\n\n\n4\n4\n1.667991\n0.702674\n0.010263\n0.955054\n0.589078\n1.000000e-04\n1.777528\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n448\n448\n1.259177\n0.598358\n0.005992\n0.654827\n0.778808\n1.000000e-07\n1.258117\n\n\n449\n449\n1.257034\n0.598368\n0.006007\n0.652659\n0.772154\n1.000000e-07\n1.257691\n\n\n450\n450\n1.250388\n0.598385\n0.006004\n0.645998\n0.775619\n1.000000e-07\n1.257473\n\n\n451\n451\n1.245115\n0.598043\n0.005997\n0.641076\n0.800961\n1.000000e-07\n1.256649\n\n\n452\n452\n1.254856\n0.598263\n0.006006\n0.650587\n0.757103\n1.000000e-07\n1.256680\n\n\n\n\n453 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#curves",
+    "href": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#key-figures",
+    "href": "runs/20260113_111215__beta0p7_actgelu_ln_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_111215__beta0p7_actgelu_ln_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_111215__beta0p7_actgelu_ln_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_111215__beta0p7_actgelu_ln_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_111215__beta0p7_actgelu_ln_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_111215__beta0p7_actgelu_ln_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_151724__beta1p0_actgelu_neg0.html",
+    "href": "runs/20260113_151724__beta1p0_actgelu_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu\nFalse\nLEAP-008A\nbeta1p0_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_151724__beta1p0_actgelu_neg0.html#configuration",
+    "href": "runs/20260113_151724__beta1p0_actgelu_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu\nFalse\nLEAP-008A\nbeta1p0_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_151724__beta1p0_actgelu_neg0.html#training-curves",
+    "href": "runs/20260113_151724__beta1p0_actgelu_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.459848\n0.799965\n0.017445\n1.642438\n0.729590\n1.000000e-04\n2.459848\n\n\n1\n1\n2.435300\n0.741736\n0.016684\n1.676880\n0.587559\n1.000000e-04\n2.447574\n\n\n2\n2\n2.226044\n0.717383\n0.014505\n1.494155\n0.645882\n1.000000e-04\n2.373731\n\n\n3\n3\n2.158942\n0.704673\n0.011430\n1.442838\n0.837305\n1.000000e-04\n2.320033\n\n\n4\n4\n2.041182\n0.698192\n0.010818\n1.332171\n0.841033\n1.000000e-04\n2.264263\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n558\n558\n1.565694\n0.614105\n0.006636\n0.944953\n1.085621\n1.000000e-07\n1.570550\n\n\n559\n559\n1.568961\n0.613752\n0.006656\n0.948553\n1.087115\n1.000000e-07\n1.569525\n\n\n560\n560\n1.566676\n0.613886\n0.006646\n0.946144\n1.081159\n1.000000e-07\n1.569201\n\n\n561\n561\n1.563208\n0.614016\n0.006643\n0.942548\n1.096105\n1.000000e-07\n1.568388\n\n\n562\n562\n1.576421\n0.613966\n0.006633\n0.955822\n1.087025\n1.000000e-07\n1.569818\n\n\n\n\n563 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_151724__beta1p0_actgelu_neg0.html#curves",
+    "href": "runs/20260113_151724__beta1p0_actgelu_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_151724__beta1p0_actgelu_neg0.html#key-figures",
+    "href": "runs/20260113_151724__beta1p0_actgelu_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_151724__beta1p0_actgelu_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_151724__beta1p0_actgelu_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_151724__beta1p0_actgelu_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_151724__beta1p0_actgelu_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_151724__beta1p0_actgelu_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html",
+    "href": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu_ln\nFalse\nLEAP-008A\nbeta1p0_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#configuration",
+    "href": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu_ln\nFalse\nLEAP-008A\nbeta1p0_actgelu_ln_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#training-curves",
+    "href": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.457888\n0.802247\n0.017437\n1.638205\n0.747455\n1.000000e-04\n2.457888\n\n\n1\n1\n2.479306\n0.742184\n0.017069\n1.720052\n0.526406\n1.000000e-04\n2.468597\n\n\n2\n2\n2.235301\n0.720080\n0.013757\n1.501464\n0.643443\n1.000000e-04\n2.390832\n\n\n3\n3\n2.211182\n0.710363\n0.011421\n1.489398\n0.863600\n1.000000e-04\n2.345919\n\n\n4\n4\n2.089103\n0.705655\n0.010640\n1.372808\n0.893416\n1.000000e-04\n2.294556\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n463\n463\n1.643094\n0.621267\n0.006275\n1.015552\n1.031418\n1.000000e-07\n1.641557\n\n\n464\n464\n1.643089\n0.621348\n0.006284\n1.015457\n1.028614\n1.000000e-07\n1.641116\n\n\n465\n465\n1.646740\n0.621564\n0.006274\n1.018902\n1.035715\n1.000000e-07\n1.643696\n\n\n466\n466\n1.638037\n0.621223\n0.006283\n1.010531\n1.042011\n1.000000e-07\n1.642525\n\n\n467\n467\n1.625977\n0.620932\n0.006280\n0.998765\n1.044579\n1.000000e-07\n1.641072\n\n\n\n\n468 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#curves",
+    "href": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#key-figures",
+    "href": "runs/20260113_171604__beta1p0_actgelu_ln_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_171604__beta1p0_actgelu_ln_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_171604__beta1p0_actgelu_ln_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_171604__beta1p0_actgelu_ln_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_171604__beta1p0_actgelu_ln_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_171604__beta1p0_actgelu_ln_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html",
+    "href": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n1\ngelu\nTrue\n32\nFalse\nLEAP-008A\nbeta1_actgelu_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#configuration",
+    "href": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n1\ngelu\nTrue\n32\nFalse\nLEAP-008A\nbeta1_actgelu_neg1_batch32_early_stop0"
+  },
+  {
+    "objectID": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#training-curves",
+    "href": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.847671\n1.077215\n0.110782\n1.659675\n1.146980\n0.0001\n2.847671\n\n\n1\n1\n2.570772\n1.001883\n0.079764\n1.489125\n1.153926\n0.0001\n2.709222\n\n\n2\n2\n2.400407\n0.986015\n0.074665\n1.339727\n1.203293\n0.0001\n2.606283\n\n\n3\n3\n2.408864\n0.981357\n0.077417\n1.350090\n1.406415\n0.0001\n2.556928\n\n\n4\n4\n2.451592\n0.977175\n0.079814\n1.394603\n1.500943\n0.0001\n2.535861\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n1.664253\n0.756063\n0.040786\n0.867405\n3.188232\n0.0001\n1.640516\n\n\n4996\n4996\n1.626271\n0.756793\n0.040386\n0.829092\n3.533153\n0.0001\n1.639599\n\n\n4997\n4997\n1.660288\n0.757420\n0.040525\n0.862344\n3.833417\n0.0001\n1.642482\n\n\n4998\n4998\n1.642188\n0.756572\n0.040791\n0.844825\n3.371194\n0.0001\n1.644840\n\n\n4999\n4999\n1.671372\n0.757810\n0.040264\n0.873298\n3.482312\n0.0001\n1.647410\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#curves",
+    "href": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#key-figures",
+    "href": "runs/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260115_162427__beta1_actgelu_neg1_batch32_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_083520__beta0p7_actgelu_neg0.html",
+    "href": "runs/20260113_083520__beta0p7_actgelu_neg0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu\nFalse\nLEAP-008A\nbeta0p7_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_083520__beta0p7_actgelu_neg0.html#configuration",
+    "href": "runs/20260113_083520__beta0p7_actgelu_neg0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n0.7\ngelu\nFalse\nLEAP-008A\nbeta0p7_actgelu_neg0\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_083520__beta0p7_actgelu_neg0.html#training-curves",
+    "href": "runs/20260113_083520__beta0p7_actgelu_neg0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.969993\n0.798822\n0.017489\n1.153682\n0.503415\n1.000000e-04\n1.969993\n\n\n1\n1\n1.908872\n0.737850\n0.016697\n1.154325\n0.370958\n1.000000e-04\n1.939433\n\n\n2\n2\n1.761594\n0.714376\n0.012304\n1.034914\n0.503095\n1.000000e-04\n1.880153\n\n\n3\n3\n1.676707\n0.707626\n0.010878\n0.958204\n0.561032\n1.000000e-04\n1.829291\n\n\n4\n4\n1.679379\n0.702350\n0.010363\n0.966666\n0.587575\n1.000000e-04\n1.799309\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n650\n650\n1.156049\n0.586928\n0.005975\n0.563146\n0.984710\n1.000000e-07\n1.165576\n\n\n651\n651\n1.164651\n0.587457\n0.005980\n0.571215\n0.985203\n1.000000e-07\n1.166140\n\n\n652\n652\n1.152197\n0.587415\n0.005998\n0.558783\n0.987126\n1.000000e-07\n1.164698\n\n\n653\n653\n1.170948\n0.587264\n0.005981\n0.577704\n0.979534\n1.000000e-07\n1.164258\n\n\n654\n654\n1.154334\n0.587116\n0.005976\n0.561242\n0.987332\n1.000000e-07\n1.162748\n\n\n\n\n655 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_083520__beta0p7_actgelu_neg0.html#curves",
+    "href": "runs/20260113_083520__beta0p7_actgelu_neg0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_083520__beta0p7_actgelu_neg0.html#key-figures",
+    "href": "runs/20260113_083520__beta0p7_actgelu_neg0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_083520__beta0p7_actgelu_neg0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_083520__beta0p7_actgelu_neg0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_083520__beta0p7_actgelu_neg0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_083520__beta0p7_actgelu_neg0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_083520__beta0p7_actgelu_neg0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html",
+    "href": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nLEAP-008A\nbeta0p3_actnone_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#configuration",
+    "href": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nsample_id\nkey_prefix\nearly_stop\n\n\n\n\n0\n0.3\nnone\nTrue\n32\nLEAP-008A\nbeta0p3_actnone_neg1_batch32\nTrue"
+  },
+  {
+    "objectID": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#training-curves",
+    "href": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n1.631376\n1.093062\n0.019422\n0.518892\n0.270445\n1.000000e-04\n1.631376\n\n\n1\n1\n1.508913\n0.999761\n0.019285\n0.489868\n0.247470\n1.000000e-04\n1.570145\n\n\n2\n2\n1.458537\n0.976540\n0.017805\n0.464192\n0.258177\n1.000000e-04\n1.532942\n\n\n3\n3\n1.439010\n0.961913\n0.017507\n0.459590\n0.241468\n1.000000e-04\n1.509459\n\n\n4\n4\n1.426417\n0.952990\n0.017440\n0.455987\n0.236891\n1.000000e-04\n1.492851\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n659\n659\n1.206468\n0.806094\n0.014459\n0.385915\n0.174413\n1.000000e-07\n1.208111\n\n\n660\n660\n1.207605\n0.806235\n0.014450\n0.386920\n0.176966\n1.000000e-07\n1.208034\n\n\n661\n661\n1.206745\n0.805840\n0.014457\n0.386448\n0.174805\n1.000000e-07\n1.207645\n\n\n662\n662\n1.205903\n0.806003\n0.014454\n0.385446\n0.175234\n1.000000e-07\n1.207655\n\n\n663\n663\n1.208327\n0.805796\n0.014446\n0.388085\n0.172397\n1.000000e-07\n1.207747\n\n\n\n\n664 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#curves",
+    "href": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#key-figures",
+    "href": "runs/20260114_215719__beta0p3_actnone_neg1_batch32.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260114_215719__beta0p3_actnone_neg1_batch32/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_215719__beta0p3_actnone_neg1_batch32/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_215719__beta0p3_actnone_neg1_batch32/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_215719__beta0p3_actnone_neg1_batch32/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260114_215719__beta0p3_actnone_neg1_batch32/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html",
+    "href": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nFalse\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#configuration",
+    "href": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nbatch\nearly_stop\nsample_id\nkey_prefix\n\n\n\n\n0\n0.3\nnone\nTrue\n1024\nFalse\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0"
+  },
+  {
+    "objectID": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#training-curves",
+    "href": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n0.851548\n0.255676\n0.021945\n0.573927\n0.049630\n0.0001\n0.851548\n\n\n1\n1\n0.836583\n0.250114\n0.021502\n0.564967\n0.058291\n0.0001\n0.844065\n\n\n2\n2\n0.808752\n0.241608\n0.020295\n0.546849\n0.065430\n0.0001\n0.832294\n\n\n3\n3\n0.777334\n0.229422\n0.019276\n0.528635\n0.063918\n0.0001\n0.818554\n\n\n4\n4\n0.754264\n0.218133\n0.018750\n0.517381\n0.059310\n0.0001\n0.805696\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n4995\n4995\n0.574841\n0.146531\n0.013449\n0.414860\n0.027177\n0.0001\n0.572671\n\n\n4996\n4996\n0.570360\n0.146446\n0.013450\n0.410463\n0.024839\n0.0001\n0.572457\n\n\n4997\n4997\n0.569842\n0.146586\n0.013452\n0.409804\n0.026657\n0.0001\n0.572285\n\n\n4998\n4998\n0.575221\n0.146556\n0.013461\n0.415204\n0.027019\n0.0001\n0.572526\n\n\n4999\n4999\n0.570570\n0.146437\n0.013458\n0.410675\n0.026446\n0.0001\n0.572697\n\n\n\n\n5000 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#curves",
+    "href": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#key-figures",
+    "href": "runs/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "runs/20260113_141559__beta1p0_actgelu_neg1.html",
+    "href": "runs/20260113_141559__beta1p0_actgelu_neg1.html",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1p0_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_141559__beta1p0_actgelu_neg1.html#configuration",
+    "href": "runs/20260113_141559__beta1p0_actgelu_neg1.html#configuration",
+    "title": "Run details",
+    "section": "",
+    "text": "beta\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\nbatch\nearly_stop\n\n\n\n\n0\n1.0\ngelu\nTrue\nLEAP-008A\nbeta1p0_actgelu_neg1\n64\nTrue"
+  },
+  {
+    "objectID": "runs/20260113_141559__beta1p0_actgelu_neg1.html#training-curves",
+    "href": "runs/20260113_141559__beta1p0_actgelu_neg1.html#training-curves",
+    "title": "Run details",
+    "section": "2 Training curves",
+    "text": "2 Training curves\n\n\n\n\n\n\n\n\n\nstep\ntrain/total_loss\ntrain/recon_loss_weighted\ntrain/mmd_loss\ntrain/triplet_loss_weighted\ntrain/grad_norm\ntrain/lr\ntrain/smooth_total_loss\n\n\n\n\n0\n0\n2.456380\n0.806138\n0.017335\n1.632908\n0.768200\n1.000000e-04\n2.456380\n\n\n1\n1\n2.354860\n0.761779\n0.016362\n1.576718\n0.748203\n1.000000e-04\n2.405620\n\n\n2\n2\n2.425371\n0.750063\n0.016891\n1.658417\n0.740320\n1.000000e-04\n2.412204\n\n\n3\n3\n2.416404\n0.732945\n0.017283\n1.666175\n0.756075\n1.000000e-04\n2.413254\n\n\n4\n4\n2.400469\n0.715702\n0.017540\n1.667227\n0.780935\n1.000000e-04\n2.410697\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n512\n512\n1.929930\n0.614491\n0.009608\n1.305830\n2.104768\n1.000000e-07\n1.928264\n\n\n513\n513\n1.929306\n0.614503\n0.009596\n1.305207\n2.139054\n1.000000e-07\n1.928049\n\n\n514\n514\n1.925350\n0.614324\n0.009595\n1.301430\n2.094110\n1.000000e-07\n1.927710\n\n\n515\n515\n1.928118\n0.614135\n0.009595\n1.304388\n2.119037\n1.000000e-07\n1.927017\n\n\n516\n516\n1.930183\n0.614657\n0.009590\n1.305936\n2.079786\n1.000000e-07\n1.927481\n\n\n\n\n517 rows × 8 columns"
+  },
+  {
+    "objectID": "runs/20260113_141559__beta1p0_actgelu_neg1.html#curves",
+    "href": "runs/20260113_141559__beta1p0_actgelu_neg1.html#curves",
+    "title": "Run details",
+    "section": "3 Curves",
+    "text": "3 Curves"
+  },
+  {
+    "objectID": "runs/20260113_141559__beta1p0_actgelu_neg1.html#key-figures",
+    "href": "runs/20260113_141559__beta1p0_actgelu_neg1.html#key-figures",
+    "title": "Run details",
+    "section": "4 Key figures",
+    "text": "4 Key figures\n\n\n../assets/model_results/20260113_141559__beta1p0_actgelu_neg1/figures/01_global_integration.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_141559__beta1p0_actgelu_neg1/figures/02_recluster_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_141559__beta1p0_actgelu_neg1/figures/03_alignment_LEAP-008A.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_141559__beta1p0_actgelu_neg1/figures/04_alignment_all.png\n\n\n\n\n\n\n\n../assets/model_results/20260113_141559__beta1p0_actgelu_neg1/figures/05_harmony_fused_comparison.png"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "Overview",
+    "section": "",
+    "text": "本页会自动扫描 ../model_results/ 下的所有 run 文件夹，并生成："
+  },
+  {
+    "objectID": "index_old.html#run-registry-sorted-by-best-smooth-loss",
+    "href": "index_old.html#run-registry-sorted-by-best-smooth-loss",
+    "title": "Overview",
+    "section": "1 Run registry (sorted by best smooth loss)",
+    "text": "1 Run registry (sorted by best smooth loss)\n\n\n\n\n\n\n\n\n\nrun_dir\nmax_epochs\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\ntimestamp\nlogged_epochs\nbest_epoch\nbest_smooth_loss\nfinal_total_loss\nfinal_lr\nhas_harmony_fig\nlink\n\n\n\n\n20\n20260114_060726__beta0p1_actn_neg1_batch1024\nNone\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\n2026-01-14T06:07:26\n695\n594\n0.330675\n0.330229\n1.000000e-07\nTrue\nruns/20260114_060726__beta0p1_actn_neg1_batch1...\n\n\n19\n20260114_052102__beta0p1_actn_neg1_batch256\nNone\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch256\n2026-01-14T05:21:02\n765\n589\n0.413216\n0.413633\n1.000000e-07\nTrue\nruns/20260114_052102__beta0p1_actn_neg1_batch2...\n\n\n39\n20260116_043857__beta0p3_actgelu_neg1_batch102...\nNone\ngelu\nTrue\nLEAP-008A\nbeta0p3_actgelu_neg1_batch1024_early_stop0\n2026-01-16T04:38:57\n5000\n4897\n0.415383\n0.413797\n1.000000e-04\nTrue\nruns/20260116_043857__beta0p3_actgelu_neg1_bat...\n\n\n23\n20260114_140507__beta0p3_actrelu_neg1_batch1024\nNone\nrelu\nTrue\nLEAP-008A\nbeta0p3_actrelu_neg1_batch1024\n2026-01-14T14:05:07\n735\n570\n0.463908\n0.465853\n1.000000e-07\nTrue\nruns/20260114_140507__beta0p3_actrelu_neg1_bat...\n\n\n40\n20260116_045146__beta0p3_actnone_neg1_batch102...\nNone\nnone\nTrue\nLEAP-008A\nbeta0p3_actnone_neg1_batch1024_early_stop0\n2026-01-16T04:51:46\n5000\n4504\n0.570228\n0.570570\n1.000000e-04\nTrue\nruns/20260116_045146__beta0p3_actnone_neg1_bat...\n\n\n\n\n\n\n\n\n\n\n\n\nrun_dir\nmax_epochs\nshare_activation\nneg_within_group\nbest_epoch\nbest_smooth_loss\nlogged_epochs\nfinal_lr\nhas_harmony_fig\nlink\n\n\n\n\n20260114_060726__beta0p1_actn_neg1_batch1024\nNone\nn\nTrue\n594\n0.330675\n695\n1.000000e-07\nTrue\nopen\n\n\n20260114_052102__beta0p1_actn_neg1_batch256\nNone\nn\nTrue\n589\n0.413216\n765\n1.000000e-07\nTrue\nopen\n\n\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\nNone\ngelu\nTrue\n4897\n0.415383\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260114_140507__beta0p3_actrelu_neg1_batch1024\nNone\nrelu\nTrue\n570\n0.463908\n735\n1.000000e-07\nTrue\nopen\n\n\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\nNone\nnone\nTrue\n4504\n0.570228\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\nNone\ngelu\nTrue\n486\n0.595807\n683\n1.000000e-07\nTrue\nopen\n\n\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nNone\ngelu\nTrue\n155\n0.651323\n418\n1.000000e-07\nTrue\nopen\n\n\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\nNone\nnone\nTrue\n44\n0.662235\n374\n1.000000e-07\nTrue\nopen\n\n\n20260115_014705__beta0p3_actnone_neg1_batch1024\nNone\nnone\nTrue\n35\n0.667159\n365\n1.000000e-07\nTrue\nopen\n\n\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\nNone\ngelu_ln\nTrue\n12\n0.706276\n342\n1.000000e-07\nTrue\nopen\n\n\n20260114_122338__beta0p3_actrelu_neg1_batch64\nNone\nrelu\nTrue\n756\n0.796738\n857\n1.000000e-07\nTrue\nopen\n\n\n20260113_014012__beta0p3_actgelu_neg0\nNone\ngelu\nFalse\n285\n0.801883\n592\n1.000000e-07\nTrue\nopen\n\n\n20260113_035554__beta0p3_actgelu_ln_neg0\nNone\ngelu_ln\nFalse\n291\n0.805234\n621\n1.000000e-07\nTrue\nopen\n\n\n20260113_062550__beta0p3_actnone_neg0\nNone\nnone\nFalse\n607\n0.809055\n708\n1.000000e-07\nTrue\nopen\n\n\n20260114_025352__beta0p1_actn_neg1_batch32\nNone\nn\nTrue\n440\n0.890086\n715\n1.000000e-07\nTrue\nopen\n\n\n20260114_064430__beta0p1_acto_neg1_batch32\nNone\no\nTrue\n461\n0.891981\n725\n1.000000e-07\nTrue\nopen\n\n\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\nNone\ngelu_ln\nTrue\n407\n0.919310\n638\n1.000000e-07\nTrue\nopen\n\n\n20260114_163226__beta0p3_actgelu_neg1_batch64\nNone\ngelu\nTrue\n242\n0.930119\n572\n1.000000e-07\nTrue\nopen\n\n\n20260113_050858__beta0p3_actnone_neg1\nNone\nnone\nTrue\n335\n0.932992\n664\n1.000000e-07\nTrue\nopen\n\n\n20260113_003315__beta0p3_actgelu_neg1\nNone\ngelu\nTrue\n235\n0.936598\n565\n1.000000e-07\nTrue\nopen\n\n\n20260113_024957__beta0p3_actgelu_ln_neg1\nNone\ngelu_ln\nTrue\n262\n0.953822\n558\n1.000000e-07\nTrue\nopen\n\n\n20260115_001443__beta0p3_actnone_neg1_batch64\nNone\nnone\nTrue\n690\n0.984406\n791\n1.000000e-07\nTrue\nopen\n\n\n20260115_162444__beta0p3_actnone_neg1_batch32_early_stop0\nNone\nnone\nTrue\n4999\n0.986783\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\nNone\ngelu\nTrue\n4982\n0.990649\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\nNone\nnone\nTrue\n676\n1.048687\n874\n1.000000e-07\nTrue\nopen\n\n\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\nNone\ngelu\nTrue\n577\n1.054605\n741\n1.000000e-07\nTrue\nopen\n\n\n20260114_175953__beta0p3_actgelu_ln_neg1_batch32\nNone\ngelu_ln\nTrue\n434\n1.126028\n698\n1.000000e-07\nTrue\nopen\n\n\n20260114_144007__beta0p3_actgelu_neg1_batch32\nNone\ngelu\nTrue\n435\n1.158449\n536\n1.000000e-07\nTrue\nopen\n\n\n20260113_083520__beta0p7_actgelu_neg0\nNone\ngelu\nFalse\n479\n1.159720\n655\n1.000000e-07\nTrue\nopen\n\n\n20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0\nNone\ngelu\nTrue\n3597\n1.182464\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260114_215719__beta0p3_actnone_neg1_batch32\nNone\nnone\nTrue\n563\n1.206506\n664\n1.000000e-07\nTrue\nopen\n\n\n20260113_130212__beta0p7_actnone_neg0\nNone\nnone\nFalse\n536\n1.211070\n637\n1.000000e-07\nTrue\nopen\n\n\n20260113_111215__beta0p7_actgelu_ln_neg0\nNone\ngelu_ln\nFalse\n124\n1.247108\n453\n1.000000e-07\nTrue\nopen\n\n\n20260113_095119__beta0p7_actgelu_ln_neg1\nNone\ngelu_ln\nTrue\n610\n1.540487\n711\n1.000000e-07\nTrue\nopen\n\n\n20260113_120653__beta0p7_actnone_neg1\nNone\nnone\nTrue\n226\n1.548372\n446\n1.000000e-07\nTrue\nopen\n\n\n20260113_074727__beta0p7_actgelu_neg1\nNone\ngelu\nTrue\n66\n1.555108\n396\n1.000000e-07\nTrue\nopen\n\n\n20260113_151724__beta1p0_actgelu_neg0\nNone\ngelu\nFalse\n398\n1.565140\n563\n1.000000e-07\nTrue\nopen\n\n\n20260115_162427__beta1_actgelu_neg1_batch32_early_stop0\nNone\ngelu\nTrue\n4423\n1.627653\n5000\n1.000000e-04\nTrue\nopen\n\n\n20260113_171604__beta1p0_actgelu_ln_neg0\nNone\ngelu_ln\nFalse\n367\n1.636017\n468\n1.000000e-07\nTrue\nopen\n\n\n20260113_185647__beta1p0_actnone_neg0\nNone\nnone\nFalse\n341\n1.679287\n442\n1.000000e-07\nTrue\nopen\n\n\n20260113_141559__beta1p0_actgelu_neg1\nNone\ngelu\nTrue\n352\n1.923519\n517\n1.000000e-07\nTrue\nopen\n\n\n20260113_162324__beta1p0_actgelu_ln_neg1\nNone\ngelu_ln\nTrue\n177\n2.042990\n447\n1.000000e-07\nTrue\nopen\n\n\n20260113_181025__beta1p0_actnone_neg1\nNone\nnone\nTrue\n293\n2.321062\n394\n1.000000e-07\nTrue\nopen"
+  },
+  {
+    "objectID": "index_old.html#best-run-at-a-glance",
+    "href": "index_old.html#best-run-at-a-glance",
+    "title": "Overview",
+    "section": "2 Best run at a glance",
+    "text": "2 Best run at a glance\n\n\n\n\n\n\n\n\n\nrun_dir\nmax_epochs\nshare_activation\nneg_within_group\nsample_id\nkey_prefix\ntimestamp\nlogged_epochs\nbest_epoch\nbest_smooth_loss\nfinal_total_loss\nfinal_lr\nhas_harmony_fig\nlink\n\n\n\n\n20\n20260114_060726__beta0p1_actn_neg1_batch1024\nNone\nn\nTrue\nLEAP-008A\nbeta0p1_actn_neg1_batch1024\n2026-01-14T06:07:26\n695\n594\n0.330675\n0.330229\n1.000000e-07\nTrue\nruns/20260114_060726__beta0p1_actn_neg1_batch1..."
+  },
+  {
+    "objectID": "index_old.html#quick-gallery-harmony-comparison",
+    "href": "index_old.html#quick-gallery-harmony-comparison",
+    "title": "Overview",
+    "section": "3 Quick gallery (Harmony comparison)",
+    "text": "3 Quick gallery (Harmony comparison)\n下面默认展示 best smooth loss 排名前 12 个的 Harmony 对比图（存在才显示）。\n\n\n20260114_060726__beta0p1_actn_neg1_batch1024\n\n20260114_052102__beta0p1_actn_neg1_batch256\n\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\n\n20260114_140507__beta0p3_actrelu_neg1_batch1024\n\n20260116_045146__beta0p3_actnone_neg1_batch1024_early_stop0\n\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n\n20260114_173924__beta0p3_actgelu_neg1_batch1024\n\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\n\n20260115_014705__beta0p3_actnone_neg1_batch1024\n\n20260114_213937__beta0p3_actgelu_ln_neg1_batch1024\n\n20260114_122338__beta0p3_actrelu_neg1_batch64\n\n20260113_014012__beta0p3_actgelu_neg0"
+  },
+  {
+    "objectID": "compare_negative_samples.html",
+    "href": "compare_negative_samples.html",
+    "title": "Comparison: beta",
+    "section": "",
+    "text": "Group: beta=0.3, share_activation=gelu, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\nneg_within_group = True\n20260114_144007__beta0p3_actgelu_neg1_batch32\nneg_within_group = True\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=gelu, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_014012__beta0p3_actgelu_neg0\nneg_within_group = True\n20260113_003315__beta0p3_actgelu_neg1\nneg_within_group = True\n20260114_163226__beta0p3_actgelu_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=gelu, early_stop=True, batch=1024\n\n\n\n\n\n\n\n\n\nneg_within_group = True\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nneg_within_group = True\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=gelu_ln, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_035554__beta0p3_actgelu_ln_neg0\nneg_within_group = True\n20260113_024957__beta0p3_actgelu_ln_neg1\nneg_within_group = True\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=none, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\nneg_within_group = True\n20260114_215719__beta0p3_actnone_neg1_batch32\nneg_within_group = True\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=none, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_062550__beta0p3_actnone_neg0\nneg_within_group = True\n20260113_050858__beta0p3_actnone_neg1\nneg_within_group = True\n20260115_001443__beta0p3_actnone_neg1_batch64\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.3, share_activation=none, early_stop=True, batch=1024\n\n\n\n\n\n\n\n\n\nneg_within_group = True\n20260115_014705__beta0p3_actnone_neg1_batch1024\nneg_within_group = True\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.7, share_activation=gelu, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_083520__beta0p7_actgelu_neg0\nneg_within_group = True\n20260113_074727__beta0p7_actgelu_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.7, share_activation=gelu_ln, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_111215__beta0p7_actgelu_ln_neg0\nneg_within_group = True\n20260113_095119__beta0p7_actgelu_ln_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=0.7, share_activation=none, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_130212__beta0p7_actnone_neg0\nneg_within_group = True\n20260113_120653__beta0p7_actnone_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, share_activation=gelu, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_151724__beta1p0_actgelu_neg0\nneg_within_group = True\n20260113_141559__beta1p0_actgelu_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, share_activation=gelu_ln, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_171604__beta1p0_actgelu_ln_neg0\nneg_within_group = True\n20260113_162324__beta1p0_actgelu_ln_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: beta=1.0, share_activation=none, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\nneg_within_group = False\n20260113_185647__beta1p0_actnone_neg0\nneg_within_group = True\n20260113_181025__beta1p0_actnone_neg1",
+    "crumbs": [
+      "Overview",
+      "Compare negative samples"
+    ]
+  },
+  {
+    "objectID": "compare_beta.html",
+    "href": "compare_beta.html",
+    "title": "Comparison: beta",
+    "section": "",
+    "text": "Group: neg_within_group=False, share_activation=gelu, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_014012__beta0p3_actgelu_neg0\nbeta = 0.7\n20260113_083520__beta0p7_actgelu_neg0\nbeta = 1.0\n20260113_151724__beta1p0_actgelu_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=False, share_activation=gelu_ln, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_035554__beta0p3_actgelu_ln_neg0\nbeta = 0.7\n20260113_111215__beta0p7_actgelu_ln_neg0\nbeta = 1.0\n20260113_171604__beta1p0_actgelu_ln_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=False, share_activation=none, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_062550__beta0p3_actnone_neg0\nbeta = 0.7\n20260113_130212__beta0p7_actnone_neg0\nbeta = 1.0\n20260113_185647__beta1p0_actnone_neg0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu, early_stop=False, batch=32\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260115_162224__beta0p3_actgelu_neg1_batch32_early_stop0\nbeta = 1.0\n20260115_162427__beta1_actgelu_neg1_batch32_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu, early_stop=False, batch=1024\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260116_043857__beta0p3_actgelu_neg1_batch1024_early_stop0\nbeta = 1.0\n20260116_025411__beta1_actgelu_neg1_batch1024_early_stop0\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260114_144007__beta0p3_actgelu_neg1_batch32\nbeta = 0.3\n20260116_025428__beta0p3_actgelu_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_003315__beta0p3_actgelu_neg1\nbeta = 0.3\n20260114_163226__beta0p3_actgelu_neg1_batch64\nbeta = 0.7\n20260113_074727__beta0p7_actgelu_neg1\nbeta = 1.0\n20260113_141559__beta1p0_actgelu_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu, early_stop=True, batch=1024\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260114_173924__beta0p3_actgelu_neg1_batch1024\nbeta = 0.3\n20260116_064323__beta0p3_actgelu_neg1_batch1024_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=gelu_ln, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_024957__beta0p3_actgelu_ln_neg1\nbeta = 0.3\n20260114_202353__beta0p3_actgelu_ln_neg1_batch64\nbeta = 0.7\n20260113_095119__beta0p7_actgelu_ln_neg1\nbeta = 1.0\n20260113_162324__beta1p0_actgelu_ln_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=none, early_stop=True, batch=32\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260114_215719__beta0p3_actnone_neg1_batch32\nbeta = 0.3\n20260116_025510__beta0p3_actnone_neg1_batch32_early_stop1\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=none, early_stop=True, batch=64\n\n\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260113_050858__beta0p3_actnone_neg1\nbeta = 0.3\n20260115_001443__beta0p3_actnone_neg1_batch64\nbeta = 0.7\n20260113_120653__beta0p7_actnone_neg1\nbeta = 1.0\n20260113_181025__beta1p0_actnone_neg1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroup: neg_within_group=True, share_activation=none, early_stop=True, batch=1024\n\n\n\n\n\n\n\n\n\nbeta = 0.3\n20260115_014705__beta0p3_actnone_neg1_batch1024\nbeta = 0.3\n20260116_064243__beta0p3_actnone_neg1_batch1024_early_stop1",
+    "crumbs": [
+      "Overview",
+      "Compare beta"
+    ]
+  }
+]

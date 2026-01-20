@@ -1,0 +1,9 @@
+{
+  "beta": 0.3,
+  "share_activation": "none",
+  "neg_within_group": false,
+  "sample_id": "LEAP-008A",
+  "key_prefix": "beta0p3_actnone_neg0",
+  "batch": 64,
+  "early_stop": true
+}
